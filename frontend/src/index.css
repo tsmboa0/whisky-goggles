@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 20 14.3% 4.1%;
+  --muted: 60 4.8% 95.9%;
+  --muted-foreground: 25 5.3% 44.7%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 20 14.3% 4.1%;
+  --card: 0 0% 100%;
+  --card-foreground: 20 14.3% 4.1%;
+  --border: 20 5.9% 90%;
+  --input: 20 5.9% 90%;
+  
+  /* Updated primary colors to gold */
+  --primary: 43 74% 49%;
+  --primary-foreground: 0 0% 100%;
+  
+  /* Updated secondary colors to complementary deep burgundy */
+  --secondary: 345 63% 30%;
+  --secondary-foreground: 0 0% 98%;
+  
+  --accent: 44 100% 81%;
+  --accent-foreground: 24 9.8% 10%;
+  
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 60 9.1% 97.8%;
+  --ring: 20 14.3% 4.1%;
+  --radius: 0.8rem;
+}
+
+.dark {
+  --background: 240 10% 3.9%;
+  --foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  
+  /* Updated primary colors to gold */
+  --primary: 43 74% 49%;
+  --primary-foreground: 0 0% 100%;
+  
+  /* Updated secondary colors */
+  --secondary: 345 63% 30%;
+  --secondary-foreground: 0 0% 98%;
+  
+  --accent: 44 100% 81%;
+  --accent-foreground: 0 0% 98%;
+  
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --ring: 240 4.9% 83.9%;
+  --radius: 0.8rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+/* Custom gradient text for heading */
+.gradient-text {
+  @apply bg-clip-text text-transparent;
+  background-image: linear-gradient(to right, #D4AF37, #FFC87C, #D4AF37);
+}
+
+/* Background pattern for luxury feel */
+.luxury-pattern {
+  background-color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23D4AF37' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* Dark mode background pattern */
+.dark .luxury-pattern {
+  background-color: #121212;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23D4AF37' fill-opacity='0.08'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* Animation for scanning line */
+.scan-line {
+  animation: scanAnimation 2s ease-in-out infinite;
+}
+
+@keyframes scanAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(100vh);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* Whisky bottle image container */
+.bottle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  max-height: 50vh;
+  overflow: hidden;
+}
+
+.bottle-container img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Card designs with golden accents */
+.luxury-card {
+  @apply bg-white dark:bg-gray-800 rounded-xl p-6 shadow-md border border-accent/20 dark:border-gray-700;
+  position: relative;
+  overflow: hidden;
+}
+
+.luxury-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(to right, #D4AF37, #FFC87C, #D4AF37);
+}
+
+/* Button styles */
+.gold-button {
+  @apply bg-primary text-white font-medium rounded-lg transition-all duration-300;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.2);
+}
+
+.gold-button:hover {
+  @apply bg-primary/90;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(212, 175, 55, 0.3);
+}
+
+.burgundy-button {
+  @apply bg-secondary text-white font-medium rounded-lg transition-all duration-300;
+  box-shadow: 0 4px 12px rgba(126, 29, 29, 0.2);
+}
+
+.burgundy-button:hover {
+  @apply bg-secondary/90;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(126, 29, 29, 0.3);
+}
+
+/* Logo animation */
+.logo-animation {
+  animation: float 6s ease-in-out infinite;
+  transition: all 0.3s;
+}
+
+.logo-animation:hover {
+  transform: scale(1.1) rotate(10deg);
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(5deg);
+  }
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+}
+
