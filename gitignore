@@ -1,0 +1,62 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python tooling
+*.log
+*.sqlite3
+*.db
+.mypy_cache/
+.pytest_cache/
+.coverage
+*.cover
+
+# Dependency folders
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.tar
+*.bak
+
+# Frontend build
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.env
+
+# System or cached files
+*.swp
+*.tmp
+
+# Torch, model caches
+~/.cache/
+**/__pycache__/
+*.pt
+*.pth
+*.onnx
+
+# Others (optional)
+*.lock
+yolov8n.pt
