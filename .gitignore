@@ -70,4 +70,6 @@ __pycache__/
 venv/
 *.zip
 .DS_Store
+.cache/
+__pycache__/
 
