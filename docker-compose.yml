@@ -1,0 +1,12 @@
+services:
+  app:
+    build:
+      context: .              
+      dockerfile: Dockerfile 
+    ports:
+      - "8000:8000"           # Host:Container
+    volumes:
+      - ./data:/app/data      # Optional: live reload or keeping large files outside image
+    env_file:
+      - .env                  # Mount your actual .env file
+    restart: unless-stopped

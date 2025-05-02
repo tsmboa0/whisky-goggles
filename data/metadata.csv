@@ -1,0 +1,502 @@
+id,name,size,proof,abv,spirit_type,brand_id,popularity,image_url,avg_msrp,fair_price,shelf_price,total_score,wishlist_count,vote_count,bar_count,ranking
+164,Blanton's Original Single Barrel,750,93,46.5,Bourbon,10,100737,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec8QcHSZugg64kQy,74.99,104.52,139.86,92451,8983,29697,53771,1
+2848,Eagle Rare 10 Year,750,,45,Bourbon,542,100519,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ecce066b-6b3d-4b58-bd04-8bf9c67e3e92,39.99,66.25,49.99,82217,8744,25989,47484,2
+4984,"E.H. Taylor, Jr. Small Batch",750,,50,Bourbon,210,100407,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recE8VJ2hGGJwZjdh,44.99,94.43,93.57,61777,8161,19475,34141,3
+466,Buffalo Trace,750,90,45,Bourbon,245,100447,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbYY28UjL8EfuFD,26.99,41.82,36.96,49610,3403,12293,33914,4
+158,Weller Antique 107,750,,53.5,Bourbon,156,100266,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec8X36afthvgqzO9,56.35,116.66,109.89,40001,8098,13989,17914,5
+2803,Weller Special Reserve,750,,45,Bourbon,156,100328,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec3BbLSm2nodYUyX,29.49,58.63,64.99,39429,3810,9769,25850,6
+1586,Weller 12 Year The Original Wheated Bourbon,750,90,45,Bourbon,8728,100251,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOZgUIgr8PGd6VI,159.99,178.62,234.49,25142,5835,8201,11106,7
+2993,Stagg Jr.,750,134.4,67.2,Bourbon,3640,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec5jaoF5vloYmUBL,49.46,147.92,172.99,23209,6685,10765,5759,8
+4662,Henry McKenna 10 Year,750,,50,Bourbon,777,100145,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recA4ugxUL7JhJfau,60.49,75.24,79.99,20707,1832,5826,13049,9
+409,Weller Full Proof,750,,57,Bourbon,156,100191,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reca43ZoXAj2Ri9Lg,61.99,188.33,399.99,20287,5486,6033,8768,10
+5120,"E.H. Taylor, Jr. Single Barrel",750,,50,Bourbon,210,100206,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recGEFcW3n6oxv1Uo,73.76,166.45,135.14,20267,4889,5785,9593,11
+13266,Heaven Hill Bottled In Bond 7 Year,750,,50,Bourbon,430,100144,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recSJfTSxTvljLvF8,47.74,62.34,84.99,18850,1948,5366,11536,12
+13089,Elijah Craig Toasted Barrel,750,,47,Bourbon,430,100094,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reciJGrkEXMQOdqYk,49.72,74.17,82.99,17328,2058,4696,10574,13
+150,1792 Full Proof,750,,62.5,Bourbon,42,100098,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVcP95KH4To384H,45.92,73.06,79.87,16891,2392,5407,9092,14
+159,Blanton's Gold Edition,750,103,51.5,Bourbon,10,100190,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec4yIwUce6C3kD9K,119.99,232.52,324.99,14458,3680,4511,6267,15
+4905,Elmer T. Lee,750,90,45,Bourbon,700,100142,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDKdd9GSrWJS6so,56.66,147.57,329.87,14337,3855,4955,5527,16
+1296,Knob Creek 12 Year,750,,50,Bourbon,189,100113,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recLpshU8Flh0HWX2,61.99,86.81,91.29,13625,1444,3547,8634,17
+1805,Sazerac Rye Whiskey,750,,45,Rye,705,100054,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRzB6sPjEkkc9Ac,28.73,46.77,51.89,13399,776,3080,9543,18
+1816,Wild Turkey Rare Breed,750,116.8,58.4,Bourbon,191,100084,https://d1w35me0y6a2bb.cloudfront.net/newproducts/113b14ea-348f-4525-be01-962b0b2a494d,46.03,70.61,68.79,13373,2054,3516,7803,19
+2336,Woodford Reserve Double Oaked,750,90.4,45.2,Bourbon,2004,100171,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXaFRMlPLwSoi4x,57.99,66.85,72.28,12705,1456,3207,8042,20
+1522,Russell's Reserve 10 Year,750,,45,Bourbon,191,100122,https://d1w35me0y6a2bb.cloudfront.net/newproducts/7dc9a32b-a17e-4f97-9fed-55a1590dc01e,45.99,56.99,48.74,12391,1368,3192,7831,21
+263,Old Forester 1920 Prohibition Style,750,115,57.5,Bourbon,152,100076,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9rWFMe841rV5IM,59.33,72.85,67.99,11816,1919,3016,6881,22
+3088,Rock Hill Farms Bourbon,750,100,50,Bourbon,245,100081,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7mpJRtKOr1cEiO,54.14,219.98,126.11,10747,3845,4387,2515,23
+4589,Weller C.Y.P.B.,750,,47.5,Bourbon,156,100091,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recz9x6jyd356mKQr,49.17,231.09,131.66,10094,4091,3360,2643,24
+4742,Old Grand Dad 114,750,114,57,Bourbon,793,100053,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recB4lGZiQD5WkxF2,30.75,40.74,33.84,10055,1084,2791,6180,25
+15946,Smoke Wagon Uncut Unfiltered Bourbon,750,116,58,Bourbon,2808,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recByGtvjDSp526md,64.99,107.24,147.89,9863,1450,2947,5466,26
+2839,Caribou Crossing,750,80,40,Canadian Whisky,3733,100083,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec3hNpA6z3k6SLoM,49.96,95.28,59.57,9529,1502,3027,5000,27
+2193,Evan Williams Bottled in Bond White Label,750,100,50,Bourbon,167,1999,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recWNSuvGjvgQnETn,17.02,32.19,20.19,9513,736,5885,2892,28
+1643,1792 Small Batch,750,93.7,46.85,Bourbon,42,100056,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recPrwD5rKmPZg46E,30.3,45.11,33.22,9413,950,2550,5913,29
+1165,Four Roses Single Barrel Straight Bourbon,750,120,60,Bourbon,148,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJ9EADPkHTwS0RA,56.64,68.79,116.7,8466,1621,309,6536,30
+3655,Angel's Envy,750,,43.3,Bourbon,96,100062,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recouUD6gO8QVoZAR,49.2,69.02,36.7,8236,750,2019,5467,31
+4952,Elijah Craig 18 Year Single Barrel,750,90,45,Bourbon,2,100078,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEsF0rPlfwLeCfY,136.4,236.83,282.16,8228,1366,2745,4117,32
+1587,Willett Pot Still Reserve Bourbon,750,94,47,Bourbon,2986,100083,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOZNbiS2qeEzvMV,52.21,73.74,45.71,8210,765,2163,5282,33
+4792,Elijah Craig Small Batch,750,94,47,Bourbon,2,100045,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCqt8eLgYeGLhVL,27.78,45.78,27.05,8025,799,1994,5232,34
+1821,Russell’s Reserve Single Barrel,750,,55,Bourbon,496,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/d2934235-5ffd-4e02-a3f1-c71a5fa1950c,57.4,81.44,61.99,8022,1403,2031,4588,35
+355,Baker's 7 Year 107 Proof,750,,53.5,Bourbon,288,100050,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recamriufRtYtLcwg,61.08,85.23,74.99,7772,677,2013,5082,37
+12843,Blanton's Straight from the Barrel,750,126.7,63.35,Bourbon,10,100104,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwXvqbYMYWra2O8,149.98,269.23,241.66,7757,2573,2125,3059,38
+2214,Old Forester 1910 Old Fine Whiskey,750,93,46.5,Bourbon,152,100059,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recWs3a6MAh1UQFLD,53.62,67.48,53.19,7673,1167,1833,4673,39
+1211,Old Rip Van Winkle 10 Year,750,,53.5,Bourbon,370,100108,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recKrKq9ATE8BVhNn,129.99,576.68,816.66,7590,2100,2717,2773,40
+16078,Russell's Reserve 13 Years Bourbon,750,114.8,57.4,Bourbon,496,100064,https://d1w35me0y6a2bb.cloudfront.net/newproducts/da9947fd-7230-49fe-8915-ab5b427c8678,109.97,246.23,264.99,7586,2297,2707,2582,41
+1074,Early Times Bottled In Bond,1000,100,50,Bourbon,348,100054,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recI4v86D8xNXPJJ3,24.01,36.14,22.57,7542,941,1821,4780,42
+1282,Willett Family Estate Small Batch Rye 4 Year,750,110,55,Rye,2986,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/89de97f2-13d3-400f-9731-bdc4bf3034a3,60.58,89.01,93.69,7534,595,2011,4928,43
+873,Weller Special Reserve,1750,90,45,Bourbon,156,100039,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgypUtYKyW6YIWw,53.28,90.38,178.73,7487,700,2243,4544,44
+1629,Michter's US1 Kentucky Straight Bourbon,750,91,45.5,Bourbon,405,100061,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recPSfHPtufbKxfqY,41.82,72.44,63.99,7458,774,1470,5214,45
+3574,1792 Bottled In Bond,750,100,50,Bourbon,42,100053,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recnp19G98DNJ8InU,41.64,84.64,63.84,7312,1002,1554,4756,46
+1510,Booker's Bourbon,750,129.2,64.6,Bourbon,647,100031,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recNavrKMQIqfuXBS,86.86,133.7,108.69,7250,1728,2217,3305,47
+3300,Pappy Van Winkle 15 Year Family Reserve,750,,53.5,Bourbon,370,100067,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjiFptLtS476Iks,131.64,709.41,1617.37,7110,3453,2592,1065,48
+33209,Russell’s Reserve 15 Year,750,117.2,58.6,Bourbon,496,100187,https://d1w35me0y6a2bb.cloudfront.net/newproducts/0308f55d-82aa-42dd-8a9c-0bce10388a21.png,249.99,362.17,398.31,6897,3960,1781,1156,49
+2879,1792 Sweet Wheat Bourbon,750,91.2,45.6,Bourbon,42,100063,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec4IN7u4rUqsc9pS,37.34,87.85,77.49,6813,1776,1803,3234,50
+3819,1792 Single Barrel,750,98.6,49.3,Bourbon,42,100080,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recqKU5urGhMWyq6z,41.35,68,52.99,6683,1035,1467,4181,51
+21319,Traveller Whiskey,750,90,45,Bourbon,4873,100072,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recT9hFFFMALIJzSF,39.97,48.84,37.69,6641,309,1868,4464,52
+3660,Woodford Reserve Bourbon,750,90.4,45.2,Bourbon,2004,100058,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recox5mmC8OqJwgF2,36.62,54.2,32.66,6608,685,1498,4425,53
+4739,Colonel E.H. Taylor Barrel Proof - Batch 6,750,128.1,64.05,Bourbon,210,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recB0po3KMQyze1iA,70.78,366.21,422.99,6594,2977,2146,1471,54
+4245,Larceny Barrel Proof,750,128,64,Bourbon,587,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recv1pYZEsoDiEH2k,52.74,94.49,113.47,6537,1092,1668,3777,55
+4448,Weller Single Barrel,750,,48.5,Bourbon,156,100087,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recymUAsNYUGbaDtF,55.95,252.98,748.99,6456,2946,2069,1441,56
+477,George T. Stagg 2009 Release,750,141.4,70.7,Bourbon,352,1900,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recb31mqk1ULH1tAq,99.98,843.74,974.99,6424,3283,2363,778,57
+4762,Jack Daniel's Single Barrel Barrel Proof,750,128,64,Whiskey,231,100063,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBkgQcm1HbOavu0,64.18,86.27,74.99,6225,779,1425,4021,58
+4255,Blade and Bow Bourbon,750,91,45.5,Bourbon,674,100053,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recvfp65VDsVqdysd,48.82,72.02,50.79,6221,531,1545,4145,59
+620,Buffalo Trace,1750,90,45,Bourbon,245,100053,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdukzgyUeslm1jm,49.54,82.63,69.99,5928,365,1537,4026,60
+4373,Four Roses Small Batch Select,750,,52,Bourbon,148,100044,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recxCeSAkg3glsde0,59.98,77.21,72.3,5865,633,1518,3714,61
+3671,"E.H. Taylor, Jr. Straight Rye",750,,50,Rye,210,100111,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoJexD0pX8tv9Ik,79.99,171.45,197.89,5810,1091,1567,3152,62
+4708,Wild Turkey 101,750,101,50.5,Bourbon,191,100040,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ac153827-41ac-4532-a1f7-a2389c21ed8b,25.4,39.44,27.85,5764,726,1553,3485,63
+519,Pappy Van Winkle 23 Year Family Reserve,750,,47.8,Bourbon,370,100046,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccmI7Umn58SrhlY,321.64,958.61,4899.97,5689,2453,2982,254,64
+15947,Smoke Wagon Small Batch Bourbon,750,,50,Bourbon,2808,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recI16sGF7SwKOZdS,45.99,76.79,62.78,5648,862,1449,3337,65
+15966,Knob Creek 9 Year,750,100,50,Bourbon,189,100050,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec06WFxINXfkfsD7,34.99,50.86,37.88,5436,666,1369,3401,66
+13668,Maker's Mark 101,750,101,50.5,Bourbon,333,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFtlfTGCY71WMnc,39.97,66.69,49.99,5428,786,1733,2909,67
+1702,High West A Midwinter Night's Dram Act 4 Scene 5,750,98.6,49.3,Rye,350,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQPJ7apXrSJ7Tj6,105.97,212.92,192.89,5360,1519,2092,1749,68
+3959,William Larue Weller - 2009,750,134.8,67.4,Bourbon,156,1820,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recsvkjsCdP9Xudfe,104.14,563.81,1296.96,5255,2829,1917,509,69
+4002,Michter's 10 Year Single Barrel Bourbon 2020 Bottling,750,,47.2,Bourbon,405,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recs75GObErBZMTwy,189.99,346.85,437.24,5190,1972,1519,1699,70
+987,Widow Jane 10 Year Straight Bourbon,750,91,45.5,Bourbon,295,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rech2ip11DvDuuiSQ,59.99,100.87,89.99,5119,792,1328,2999,71
+13584,Jack Daniel's Single Barrel Rye Barrel Proof,750,,65.15,Rye,231,100035,https://d1w35me0y6a2bb.cloudfront.net/newproducts/11069838-17b3-45f2-886f-318ca32a627e,67.47,99.92,412.99,5059,720,1138,3201,72
+3694,"Van Winkle 12 Year Special Reserve Lot ""B""",750,,45.2,Bourbon,370,100061,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoadopI6awI3NgY,799.99,736.03,1026.64,5024,1084,1857,2083,73
+1641,Wild Turkey Kentucky Spirit Single Barrel,750,101,50.5,Bourbon,191,100055,https://d1w35me0y6a2bb.cloudfront.net/newproducts/eb222170-9a02-4980-b02d-4e2f4238954e,57.2,92.34,68.93,4878,515,1089,3274,74
+17951,Penelope Architect,750,104,52,Bourbon,2817,100030,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjEOoNXFnXjdjnY,62.48,87.86,66,4794,404,1100,3290,75
+144,Elijah Craig Barrel Proof Batch A119,750,134.2,67.1,Bourbon,2,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e8a7bf5c-a951-4056-89d7-f3c0a146aa8c,69.98,104.95,91.89,4765,1205,1847,1713,76
+3773,Four Roses Small Batch,750,90,45,Bourbon,148,100037,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recp7zc4RWzooXwtF,33.42,49.36,36.56,4736,493,1162,3081,77
+1269,Maker's Mark 46,750,94,47,Bourbon,333,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recKb6dHw6oLuspZ4,25.99,42.09,36.66,4699,595,1137,2967,78
+18530,Knob Creek 18 Year Limited Edition,750,100,50,Bourbon,189,100060,https://d1w35me0y6a2bb.cloudfront.net/newproducts/8e56f538-bb35-4d82-8969-234869e3c11c,163.31,227.89,254.14,4675,559,1411,2705,79
+2755,Maker's Mark Bourbon,750,90,45,Bourbon,333,100064,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec2i2ZBqc860HFYy,21.99,37.87,27.99,4663,424,1108,3131,80
+17318,Jack Daniel's 10 Year,750,97,48.5,Whiskey,231,100039,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recapjvBqUMja0sqA,84.95,179.31,274.97,4620,750,1344,2526,81
+3651,Eagle Rare 10 Year,1750,90,45,Bourbon,542,100059,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoszMFe8mFzVeuv,60.75,124.03,79.95,4605,534,1413,2658,82
+14150,1792 Aged Twelve Years,750,96.6,48.3,Bourbon,42,100064,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJZ1ToSYgcgbtdQ,51.46,96.99,57.64,4503,902,1154,2447,83
+3731,Michter's US1 Toasted Sour Mash,750,1,0.5,Bourbon,405,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recpp72ma4djo6bMU,45.7,65.06,57.98,4433,1128,799,2506,84
+3674,Bulleit Bourbon,750,90,45,Bourbon,415,100058,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoJD5h2MDmvBgNP,28.36,44.68,35.29,4365,561,1359,2445,85
+20691,Elijah Craig Barrel Proof C923,750,133,66.5,Bourbon,2,100033,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczoIGVQAJHttO94,72.48,146.32,81.57,4296,750,1106,2440,86
+1217,Joseph Magnus Cigar Blend Bourbon,750,116,58,Bourbon,443,100037,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e98b0d36-2788-481a-86b7-ffa27a21bdb4,173.33,261.75,299.98,4292,740,1467,2085,87
+1966,Jack Daniel's Sinatra Select,1000,90,45,Whiskey,231,100030,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recTvkaW6vOO7R3wl,156.13,238.67,189.19,4235,530,1612,2093,88
+20783,Larceny Barrel Proof Batch C923,750,,63.2,Bourbon,587,100028,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recqeUfxaGZEBqd2E,59.99,104.33,75.26,4215,546,1429,2240,89
+17248,Benchmark Full Proof,750,125,62.5,Bourbon,3330,100037,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbKDGVxVDOwEnIc,21.47,33.47,25.99,4135,411,915,2809,90
+21356,Old Forester 1924 10 Year,750,100,50,Bourbon,152,100064,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recm6FfIH2EVEkFzv,114.97,183.86,112.5,4109,853,1206,2050,91
+3775,Yellowstone Select,750,93,46.5,Bourbon,272,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recp8lpCArhPFj3dc,37.08,54.12,49.99,4068,382,1167,2519,92
+46254,Wild Turkey Jimmy Russell 70th Anniversary,750,101,50.5,Bourbon,191,100158,https://d1w35me0y6a2bb.cloudfront.net/newproducts/6c31b8b1-db97-493d-8dfb-ee3dbcebd0ba,49.99,75.72,69.82,3994,704,898,2392,93
+2969,Old Ezra 7 Year Barrel Strength,750,117,58.5,Bourbon,850,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec543Sc5GlZ3kp9W,49.24,106.38,78.99,3986,533,1200,2253,94
+4299,Jack Daniel's Single Barrel Select,750,94,47,Whiskey,231,100044,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwHdGGMUldgjdIa,48.14,76.97,59.42,3965,290,932,2743,95
+1046,Double Eagle Very Rare,750,90,45,Bourbon,542,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recIveSV3lbCKdxSl,1944.94,3048.26,12138.3,3864,1476,2324,64,96
+17358,Jack Daniel's Coy Hill Single Barrel,750,148,74,Whiskey,231,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reckCIyTg28kgJlIL,69.99,276.99,572.89,3855,1352,1960,543,97
+16960,Basil Hayden Toast,750,,40,Bourbon,330,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reclxqPnJFmtXz1Hs,51.63,71.49,58.94,3823,350,558,2915,98
+2533,Knob Creek 9 Year Single Barrel Reserve,750,120,60,Bourbon,189,100028,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec0lVJZoWzPEe8Zq,55.1,85.23,67.62,3789,304,942,2543,99
+803,Redwood Empire Pipe Dream,750,90,45,Bourbon,445,100043,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recfASyAiie5Usqpq,40.64,50.33,45.91,3756,371,922,2463,100
+3755,Angel's Envy Rye,750,100,50,Rye,96,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recpIny97F3YHHfFY,95.69,125.56,110,3749,390,1058,2301,101
+19547,Jack Daniel’s 12 Year Tennessee Whiskey #1,750,107,53.5,Whiskey,231,100047,https://d1w35me0y6a2bb.cloudfront.net/newproducts/7800313d-960f-4348-a7e6-64c13916885f,82.48,188.35,359,3658,874,1173,1611,102
+16681,Blanton's Black,750,80,40,Bourbon,10,100033,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec0xGiQNs5KPhNXy,199.99,294.28,224.73,3654,1729,848,1077,103
+2706,Elijah Craig Barrel Proof Batch B519,750,125,62.5,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec2nnBP2xP4HSim1,62.48,101.64,89.99,3597,794,1614,1189,104
+4776,Pappy Van Winkle 20 Year Family Reserve,750,,45.2,Bourbon,370,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCRPpOTPWSMLbAX,218.31,1072.05,2399.9,3557,2117,1073,367,105
+1708,Bowman Brothers Small Batch,750,90,45,Bourbon,687,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQSlXJhJDlKP5Uw,31.35,55.59,33.58,3532,283,877,2372,106
+2849,Hancock's President's Reserve Bourbon,750,88.9,44.45,Bourbon,2320,100043,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec4REq9DfYniR0TD,51.64,128.09,189.89,3528,654,1063,1811,107
+2769,Old Forester 1897 Bottled In Bond,750,100,50,Bourbon,152,100026,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec3QXKYrHaN0oYEc,46.99,69.06,57.99,3515,622,836,2057,108
+5194,Michter's US1 Kentucky Straight Rye,750,84.8,42.4,Rye,405,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHFkS9cxK4oVX3m,43.01,70.36,54.99,3470,294,663,2513,109
+3317,Michter's Limited Release Toasted Barrel Bourbon,750,,45.7,Bourbon,405,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recknpSLFePovphgH,70.66,205.5,299.99,3446,1544,913,989,110
+15948,Smoke Wagon Bourbon,750,92,46,Bourbon,2808,1780,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjZFVq7sziRYB3B,29.99,46.7,34.99,3444,465,819,2160,111
+4948,Thomas H Handy,750,129.5,64.75,Rye,3684,100044,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEncvPuVkYT03Ak,103.54,530.79,700,3440,1047,1162,1231,112
+2353,Knob Creek 15 Year Batch KC001,750,,50,Bourbon,189,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYQ8t3Q61FexPtD,113.3,174.28,119.99,3432,916,1036,1480,113
+3958,Basil Hayden's Bourbon,750,80,40,Bourbon,330,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recsuxthI9vrYAEdF,38.95,52.11,44.13,3427,249,783,2395,114
+4450,Buffalo Trace,1000,90,45,Bourbon,245,100050,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recynj4TDF3tIdXtm,31.77,58.32,39,3427,185,821,2421,114
+17176,Peerless Double Oak Bourbon,750,109,54.5,Bourbon,163,100057,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recSAAp8SGDHRfYIC,88.97,120.88,148.49,3406,679,813,1914,116
+7140,Buffalo Trace Bourbon Cream,750,30,15,Liqueurs,245,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYsXSE105q4ECKf,20.97,36.72,28.99,3357,140,729,2488,117
+14409,Widow Jane Decadence,750,91,45.5,Whiskey,295,100062,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDs0czgClatyA27,84.97,127.96,146.31,3342,438,862,2042,118
+1462,Larceny,750,92,46,Bourbon,587,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recNqaM5DIYTY1Ogr,25.81,39.24,31.99,3324,275,863,2186,119
+4576,Michter's Single Barrel Rye 10 Year,750,93,46.5,Rye,405,100038,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recz17t4abIbw4sHf,158.6,287.59,275.99,3292,663,1053,1576,120
+429,Old Forester Statesman,750,95,47.5,Bourbon,152,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recajB9QXl85VVyi7,52.87,81.93,59.49,3261,342,848,2071,121
+1663,Redbreast 12 Year Old Single Pot Still,750,80,40,Irish Whiskey,646,1920,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recPJhLfuejW7EqpZ,66.08,80.59,71.77,3233,511,878,1844,122
+21689,Crown Royal Blackberry,750,70,35,Canadian Whisky,182,100067,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFbBA0vcRseKJin,33.95,43.69,36.67,3204,94,734,2376,123
+16484,Calumet Farm 15 Year Single Rack Black,750,105,52.5,Bourbon,769,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reckAiWwFEzzaC6Rm,129.98,158.66,149.99,3176,580,829,1767,124
+4598,Weller Antique 107,1750,107,53.5,Bourbon,156,100058,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczgOfqTV9DjCdLK,99.99,165.4,299.99,3168,782,1145,1241,125
+15985,George Dickel 15 Year Single Barrel,750,105,52.5,Whiskey,486,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCUVFdM6HyJI3hV,59.97,97.54,100.4,3114,441,1150,1523,126
+17021,Little Book Chapter 5: The Invitation,750,117,58.5,Bourbon,823,1998,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXp8tW02Ex447K0,124.97,188.56,209.89,3102,882,1188,1032,127
+4486,John J. Bowman Single Barrel 10 Year,750,100,50,Bourbon,6232,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recy0ZZcEMUAAWKTc,49.15,80.71,55.04,3084,753,743,1588,128
+1636,Russell’s Reserve Private Barrel Selection Single Barrel,750,110,55,Bourbon,496,100074,https://d1w35me0y6a2bb.cloudfront.net/newproducts/a887f597-cfef-4a49-985b-e8b632b5db32,56.99,104.53,63.83,3006,442,538,2026,129
+220,Noah's Mill,750,,57.15,Bourbon,8577,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec850EjFSGBieSX3,63.83,93.77,71.49,2967,273,762,1932,130
+3941,Michter's US1 Unblended American Whiskey,750,83,41.5,Bourbon,405,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recsTcWBsUkitiYIU,44.98,68.58,54.66,2905,294,679,1932,131
+4593,Kentucky Owl Confiscated,750,,48.2,Bourbon,779,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczcZOsqVRMEF0X0,124.97,217.88,159.12,2884,296,929,1659,132
+1924,Old Tub,750,100,50,Bourbon,3559,1999,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recS3K2f1ZpQduCg4,22.23,35.33,29.99,2881,276,950,1655,133
+2594,Eagle Rare 17 Year,750,90,45,Bourbon,542,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec0j5xtGTJNTdaLQ,103.54,681.17,1998.89,2833,1487,990,356,134
+14147,Blanton's,375,93,46.5,Bourbon,10,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHxGLWCCDvY4MlC,31.99,53.88,84.99,2814,164,693,1957,135
+19806,John J. Bowman Single Barrel Limited Edition,750,100,50,Bourbon,3248,100060,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrZ7bOHyp19RgYH,50,85.75,54.99,2774,421,554,1799,136
+2476,Old Grand Dad Bonded,750,,50,Bourbon,793,100028,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recZFqcPggFRQ1V4w,23.66,36.25,27.49,2773,279,721,1773,137
+19971,Penelope 5 Year Toasted Barrel,750,,50,Bourbon,2817,100058,https://d1w35me0y6a2bb.cloudfront.net/newproducts/5f9ce3fe-0b05-49e0-b063-86f0c9906435,69.98,93.12,58.9,2754,270,616,1868,138
+1800,Bomberger Small Batch Straight Bourbon,750,108,54,Bourbon,703,100033,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRwpWO8UR5jUgsU,91.98,166.94,277.11,2710,586,820,1304,139
+19503,Ben Holladay Soft Red Wheat Bottled in Bond,750,100,50,Bourbon,3647,100050,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b393c598-ad31-4c65-8b07-6bde2752789c,59.97,77.74,59.99,2709,285,633,1791,140
+38465,Maker's Mark Wood Finish Series The Heart Release 2024,750,111.7,55.85,Bourbon,333,100077,https://d1w35me0y6a2bb.cloudfront.net/newproducts/da8c2476-99f5-432c-9ceb-f2ed48f15950,75,108.96,146.15,2695,274,523,1898,141
+495,Maker's Mark Cask Strength,750,113.2,56.6,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbbGS4iqm1xiVYS,49.73,65.34,55.7,2669,301,606,1762,142
+19526,Maker's Mark 2023 Wood Finishing Series BEP,750,110,55,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/5c88d2a7-be5d-4965-8841-9a4a6615d019,67.47,117.43,64.99,2667,93,675,1899,143
+16613,Barrell Seagrass Rye Whiskey,750,118.4,59.2,Rye,146,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recmUbjbRg7Dn3cub,87.46,94.18,90.06,2659,263,755,1641,144
+3860,Jack Daniel's,750,80,40,Whiskey,231,100039,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrory7Tdm19N6fk,24.21,35.04,27.29,2658,196,1005,1457,145
+966,New Riff Bourbon Single Barrel,750,98,49,Bourbon,254,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechz9ebtYu4dZLsa,52.49,81.63,57.6,2655,342,585,1728,146
+3249,Wild Turkey Rare Breed Barrel Proof Rye,750,116,58,Rye,191,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjwZj9cJndWwWPt,57.48,81.77,74.89,2634,311,683,1640,147
+1133,Uncle Nearest 1856,750,100,50,Whiskey,567,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJFKeoEZ2QlHCfm,55.88,88.5,64.29,2633,384,848,1401,148
+18070,Blood Oath Pact No. 8,750,,49.3,Bourbon,849,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recT4c7Pf4qfLBCSU,124.97,222.55,280.85,2623,438,889,1296,149
+18184,Jack Daniel's Bonded,700,100,50,Whiskey,231,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reckM8p0DW8byhfDT,33.97,47.5,32.64,2598,104,650,1844,150
+17898,Weller Special Reserve,1000,90,45,Bourbon,156,100039,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recGsrlDsDcWv6CmH,29.99,71.65,79.45,2587,229,714,1644,151
+2291,Wild Turkey Longbranch 8 Year,750,86,43,Bourbon,191,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXnVO51ZKsyylWp,37.54,61.02,41.8,2584,229,648,1707,152
+21106,Stagg - 23C,750,125,62.5,Bourbon,3640,100042,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQsEooEteqiIQLE,59.99,197.99,175.83,2532,499,607,1426,153
+2831,New Riff Bourbon,750,100,50,Bourbon,254,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec39RJiDeQBrJv1q,39.98,62.23,54.99,2512,474,631,1407,154
+633,Michter's Barrel Strength Rye Whiskey,750,111.8,55.9,Rye,405,100025,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdB01wlmUNCEANJ,79.02,204.81,215.39,2490,608,771,1111,155
+2549,Crown Royal Peach,750,70,35,Canadian Whisky,182,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec0xqZZEwI7E885d,29.61,45.5,39.99,2477,115,516,1846,156
+3997,Redwood Empire Lost Monarch,750,90,45,Whiskey,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recs4YaRKIRaGyXhU,40.97,57.26,52.89,2471,263,588,1620,157
+18508,Willett Wheated 8 Year,750,108,54,Bourbon,2986,100037,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec5k30jxgSmZryAH,249.99,339.41,270.58,2463,324,998,1141,158
+41273,Stagg Batch 24A,750,,63.8,Bourbon,3640,100046,https://d1w35me0y6a2bb.cloudfront.net/newproducts/8eb464d7-81f5-4df2-84d4-174c85d2389b,65,172.98,207.47,2462,624,646,1192,159
+17450,Benchmark Single Barrel,750,95,47.5,Bourbon,3330,100031,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recaj6GAKbcqGNQwB,24.97,36.69,31.89,2460,232,524,1704,160
+21242,George T. Stagg 2023 Release,750,,67.5,Bourbon,352,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEjgFQvnlVNcH77,124.97,622.6,1062.5,2356,718,699,939,161
+893,Old Forester 86 Proof,750,,43,Bourbon,152,100031,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgKSyn8Ed6oZW72,21.25,34.71,22.99,2343,346,889,1108,162
+16682,Blanton's Red,750,93,46.5,Bourbon,10,100033,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQspTYVcfEl4SUw,199.99,294.86,349.59,2317,1032,492,793,164
+17397,Old Fitzgerald 8 Year - Spring 2021,750,100,50,Bourbon,234,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFtk3FcVV0nbWX8,84.99,191.83,234.55,2302,1467,602,233,165
+17632,Elijah Craig Barrel Proof Batch A122,750,121,60.5,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/42cf6c22-3da1-4584-9477-2ae5d5b0639a,69.97,127.1,90.02,2292,214,602,1476,166
+17435,Knob Creek 12 Year Cask Strength ,750,121,60.5,Bourbon,189,100036,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recitOSI7BboWYsjc,94.79,114.59,104.27,2265,720,683,862,167
+435,Crown Royal,750,80,40,Canadian Whisky,182,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbSBRwenrYqKTcx,25.72,43.8,30.99,2234,162,795,1277,168
+17247,Benchmark Bonded,750,100,50,Bourbon,3330,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXKQYMNayJv4NUk,19.97,27.3,23.19,2231,226,466,1539,169
+15984,Old Forester 150th Anniversary,750,127,63.5,Bourbon,152,1998,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbwOTTyHWJlIxv4,150,270.36,512.47,2230,1020,904,306,170
+670,Coopers' Craft Barrel Reserve,750,100,50,Bourbon,2494,100045,https://d1w35me0y6a2bb.cloudfront.net/newproducts/0600c341-341c-42e6-8b12-84d1db7d969c,32.22,44.66,40.03,2219,433,246,1540,171
+1579,Basil Hayden's 10 Year,750,,40,Bourbon,330,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOVSI9ABAypKBe3,67.48,96.37,91.49,2206,323,630,1253,172
+15989,Maker's Mark 2021 Wood Finishing Series FAE-01,750,111,55.5,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recfidomWc4I4TOty,59.57,134.68,69.86,2186,314,631,1241,173
+17068,Still Austin Cask Strength Bourbon,750,116,58,Bourbon,3145,100041,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recZIBgvu1RaUHe4z,64.99,73.69,71,2173,269,479,1425,174
+5131,Jack Daniel's Single Barrel Barrel Proof,375,128,64,Whiskey,231,60,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recGZYMKtX3giZtyH,33.97,75.34,45.88,2163,159,627,1377,175
+19626,Bardstown Origin Series Bottled in Bond,750,100,50,Bourbon,778,100032,https://d1w35me0y6a2bb.cloudfront.net/newproducts/f1b496d4-b5d8-4e91-abb8-83a74cf3d975,49.97,69.08,54.05,2125,247,468,1410,176
+1419,Isaac Bowman Port Barrel Finish Bourbon,750,92,46,Bourbon,6683,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recM8vbfzqHVZya80,39.3,60.52,61.79,2118,154,514,1450,177
+16161,Blood Oath Pact No. 7,750,98.6,49.3,Whiskey,849,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recSIud6npYB7ab4p,99.99,251,249.99,2085,406,782,897,178
+17210,Penelope Toasted Series,750,112,56,Bourbon,2817,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7Sq90l6MbsnW6A,69.97,89.16,94.99,2082,200,447,1435,179
+18235,Calumet Farm 16 year Single Rack Black,750,106,53,Bourbon,769,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccHrJbZgZTKN4NU,129.99,167.89,154.49,2072,226,612,1234,180
+19720,Green River Wheated Sour Mash,750,90,45,Bourbon,3445,100041,https://d1w35me0y6a2bb.cloudfront.net/newproducts/bf03e038-76a5-4842-8704-e48563544a99,35,45.61,35.99,2054,204,506,1344,181
+17213,Blue Run High Rye Bourbon,750,111,55.5,Bourbon,2820,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9Vetq3aMEhXUwh,97.47,140.59,109.99,2048,248,557,1243,182
+15965,Penelope Bourbon Four Grain,750,80,40,Bourbon,2817,1120,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recqXwD3K4cP85KkF,37.47,56.43,38.91,2045,198,511,1336,183
+4588,Rowan's Creek 12 Year,750,,50.05,Bourbon,8524,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recz9nrva4Dt27gDg,48.81,71.85,54.67,2031,170,479,1382,184
+1736,Bulleit Bourbon Barrel Strength,750,119.4,59.7,Bourbon,415,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQGRauPc8PhJFbw,50.14,67.32,54.03,2030,223,262,1545,185
+2159,Old Forester 100,750,100,50,Bourbon,152,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recV0eRDYZzQ8DWuk,23.59,37.51,24.99,2017,221,487,1309,186
+18396,Ben Holladay Bottled in Bond Bourbon,750,100,50,Bourbon,3647,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJWu8BOhyhYpgoc,59.98,75.46,67.99,2014,247,502,1265,187
+17138,Remus Repeal Reserve V,750,100,50,Bourbon,586,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recnQAvWnLD8wcYQZ,90,241.09,149.99,2004,406,741,857,188
+18712,Elijah Craig Barrel Proof Batch C922,750,125,62.5,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/569368fa-2cb3-4253-8de8-f8a1af3abd88,69.97,107.5,79.99,1994,131,489,1374,189
+184,Belle Meade Cask Strength Reserve Bourbon,750,108,54,Bourbon,154,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec8ypD0R8Z2lM8jz,56.69,92.34,73.42,1988,219,468,1301,190
+859,Monkey Shoulder,750,86,43,Scotch,483,1900,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgUDEyqd2u99HpY,33.89,51.34,37.26,1986,226,504,1256,191
+286,Buffalo Trace Kosher Wheat 7 Year,750,,47,Bourbon,245,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9DcfxtrwJNKsqq,39.99,85.93,79.98,1984,276,566,1142,192
+21466,James E. Pepper Barrel Proof Bourbon,750,105.4,52.7,Bourbon,550,100045,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec8pklFoPunGfATF,64.99,80.06,72.48,1979,257,437,1285,193
+19559,Redwood Empire Pipe Dream Cask Strength,750,117,58.5,Bourbon,445,100031,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDvBiLOCJFD8ULj,70,103.14,75.89,1977,305,424,1248,194
+17089,Woodford Reserve Master's Collection Batch Proof 128.3,750,128,64,Bourbon,2004,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recT4oa9621BqzqWR,130,187.36,350.89,1973,779,603,591,195
+3123,Jameson Irish Whiskey Triple Distilled,750,80,40,Irish Whiskey,214,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec72JDJEjoMIYjzf,28.69,33.53,37.24,1970,190,578,1202,196
+3205,Rabbit Hole Dareringer Sherry Bourbon Cask,750,93,46.5,Bourbon,573,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reci2r5koMIa3li3M,71.45,111.06,94.89,1965,210,548,1207,197
+3265,Crown Royal Salted Caramel,750,70,35,Canadian Whisky,182,100029,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjW5MWKuAREMjFt,28.14,51.64,30.11,1943,119,499,1325,198
+3152,George Dickel Bottled in Bond Tennessee Whiskey 13 Year,750,100,50,Whiskey,486,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reciPtFsn8BCFlQyt,40.3,66.26,79.98,1939,209,588,1142,199
+18233,Elijah Craig Barrel Proof Batch B522,750,121,60.5,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/70e0a3c0-d40b-4c1a-ae5f-1279add8df4f,72.47,113.91,89.97,1938,127,436,1375,200
+2331,Eagle Rare 10 Year,375,90,45,Bourbon,542,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recX9Tqmo30jkzrbv,17.63,63.59,24.99,1919,126,524,1269,201
+17293,Booker’s Bourbon 2021-04 Noe Strangers Batch,750,124,62,Bourbon,647,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/1ca0cb72-a017-499b-b1c7-e4e1da16c850,89.99,164.51,109.99,1914,239,615,1060,202
+2086,Knob Creek Smoked Maple,750,90,45,Bourbon,189,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recU7OSVWv0n6ACl9,34.68,49.1,37.86,1904,116,463,1325,203
+4575,"E.H. Taylor, Jr. 18 Year Marriage",750,,50,Bourbon,210,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recz0y5B3H7Gfkl6i,69.99,336.92,3189.98,1896,1395,464,37,204
+17153,Maker's Mark 2021 Wood Finishing Series FAE-02,750,109,54.5,Bourbon,333,1900,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFxWXneAJkFaU4V,62.47,107.16,65.99,1895,348,527,1020,205
+19790,Penelope Bourbon Cooper Series - Valencia,750,98,49,Bourbon,2817,100044,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recV6NoLzi1jzq7Ul,89.99,108.79,79.99,1894,294,168,1432,206
+2147,High West Campfire,750,92,46,Whiskey,350,90,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVFeYGVWzfdyz4N,69,82.92,71.49,1885,148,460,1277,207
+20831,Booker's Bourbon 2023-03 Mighty Fine Batch,750,122,61,Bourbon,647,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recke7mvn4IrEOARk,89.99,156.5,137.67,1877,56,484,1337,208
+17688,Old Forester Rye Barrel Strength Single Barrel,750,,64.05,Rye,152,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/61465bf4-95ec-475e-b437-357ff094d0f5,79.99,124.24,124.97,1877,226,502,1149,208
+17894,Castle & Key Small Batch Bourbon,750,98,49,Bourbon,2983,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbjx4SbSxRZyVgC,49.99,68.72,54.99,1874,185,487,1202,210
+15967,Horse Soldier Bourbon,750,86,43,Bourbon,3188,1900,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec5wHkRVqocAl1FP,53.47,77.69,53.58,1871,309,486,1076,211
+17446,Penelope Bourbon Rosé Cask Finish,750,94,47,Bourbon,2817,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVKM3N8s5nIZRkz,67.47,90.03,71.39,1859,121,402,1336,212
+841,Peerless Bourbon Small Batch,750,107,53.5,Bourbon,163,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c763dc79-5e80-4038-b786-b8eb665e896b,72.99,99.58,80.29,1858,189,433,1236,213
+17211,Blue Note Juke Joint Whiskey Uncut Unfiltered,750,122,61,Bourbon,3068,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBWmJUIguIjdWiu,49.99,61.86,55.33,1852,215,320,1317,214
+21010,Booker’s Bourbon 2023-04 - The Storyteller Batch,750,127,63.5,Bourbon,647,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recaTO5b7RCGRu9Gc,109,143.81,121.21,1845,54,450,1341,215
+20005,"Booker's 7 Year ""Apprentice Batch"" - 2023",750,,62.75,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e77ce3f3-53b5-4763-bfa4-c9e16f33c09c,,105.83,114.39,1840,45,499,1296,216
+2581,WhistlePig 6 Year Piggyback Rye,750,96.6,48.3,Rye,3549,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec04ExDdVFubB2cY,47.48,67.17,62.99,1840,129,450,1261,216
+4783,Woodford Reserve Double Oaked,1000,90.4,45.2,Bourbon,2004,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCURjMMrekdH4VW,66.99,91.49,73.69,1839,174,530,1135,218
+17054,Buffalo Trace Kosher Bourbon Rye Recipe,750,94,47,Bourbon,245,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdQkib7m8wIU0Vb,39.99,109.08,128.37,1828,308,460,1060,219
+4813,Maker's Mark 46 Cask Strength,750,110,55,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCHYKncSjI3Dztg,58.97,79.52,81.29,1817,308,468,1041,220
+19151,Stagg - Batch #18,750,131,65.5,Bourbon,3640,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgzt9vNV0uZqrBG,70,345.56,412.45,1815,87,584,1144,221
+19975,Elijah Craig Barrel Proof Batch B523,750,124,62,Bourbon,2,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/acfa18fe-f862-4d08-ad9a-b39045890078,72.47,115.23,69.99,1808,50,388,1370,222
+17355,Penelope Bourbon Barrel Strength Four Grain Batch 8,750,115,57.5,Bourbon,2817,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrQPyKubaoLCE37,64.99,85.25,74.49,1799,347,434,1018,223
+17802,Stagg Jr. - Batch #17,750,128.7,64.35,Bourbon,3640,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recZbURZWnlGDSaNH,53.3,228.07,389.27,1795,166,580,1049,224
+48400,Stagg 24B,750,127.8,63.9,Bourbon,3640,100150,https://d1w35me0y6a2bb.cloudfront.net/newproducts/5721a24c-b160-412f-9ba6-1e8892b87df7,,163.28,219.99,1781,425,514,842,225
+3286,High West Double Rye,750,92,46,Rye,350,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recj8HeW4ZAnZeI1h,37.38,44.45,40.8,1780,137,391,1252,226
+18354,Booker’s Bourbon 2022-02 Lumberyard Batch,750,124,62,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/67f27aa2-ddcb-4d7e-bee1-a4af0170c061,89.99,175.74,192.34,1779,123,470,1186,227
+17630,Kentucky Owl St. Patrick's Edition,750,,50,Bourbon,779,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwCoPXgMCJJI8QA,134.98,157.56,149,1776,135,596,1045,228
+1948,Old Forester Single Barrel 100 Proof,750,,50,Bourbon,5959,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recTLhfHyFC8BjPg9,71.63,135.44,219.99,1775,484,188,1103,229
+3838,Joseph Magnus Straight Bourbon,750,100,50,Bourbon,443,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recq640kdlDef6HwI,91.48,139.15,109.99,1758,206,527,1025,230
+19879,Stagg - 22A,750,132,66,Bourbon,3640,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/6c13e233-8579-4d4c-aea2-4c82dcf40874,80,255.95,249.99,1751,114,541,1096,231
+19819,Larceny Barrel Proof Batch B523,750,,62.2,Bourbon,587,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJHmbS4hrqexmel,59,79.14,69.39,1740,62,446,1232,232
+4033,Pikesville Rye Whiskey,750,110,55,Rye,8412,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rectnTRFH3T8oEONc,50.87,70.52,55.66,1738,253,434,1051,233
+3365,Jefferson’s Reserve Very Old Kentucky Straight Bourbon Very Small Batch,750,90.2,45.1,Bourbon,9035,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reck4oP88T4cA9Tno,54.24,80.75,59.31,1737,150,384,1203,234
+13955,Rabbit Hole Cavehill,750,95,47.5,Bourbon,573,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recE8upmjz39R8VbA,59.97,100.85,65.99,1722,133,474,1115,235
+19502,Ben Holladay Soft Red Wheat Rickhouse Proof,750,120.1,60.05,Bourbon,3647,100061,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b20bcc00-0ff3-44eb-9376-349d8d480eea,74.99,89.03,80.79,1719,331,333,1055,236
+2019,Bulleit Bourbon 10 Year,750,91.2,45.6,Bourbon,415,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recT5g0gYfOdJlV88,45.99,67.06,50.49,1714,192,432,1090,237
+592,Lagavulin 16 Year,750,,43,Single Malt Scotch Whisky,392,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccgxdrBpjntE23d,102.22,119.13,114.42,1713,189,501,1023,238
+3454,Elijah Craig Straight Rye Whiskey,750,94,47,Rye,2,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recl7TtQekM7rFK9U,32.3,40.84,33.54,1710,92,427,1191,239
+2034,Mellow Corn Bottled In Bond,750,100,50,Whiskey,2551,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recTfvH79SlofZmCr,17.51,25.37,18.09,1707,110,452,1145,240
+17221,Redwood Empire Grizzly Beast Straight Bourbon Bottled in Bond,750,100,50,Bourbon,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrOYZbphZcxNJHF,79.99,105.9,117.59,1706,270,393,1043,241
+18778,Remus Repeal Reserve VI,750,100,50,Bourbon,586,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczoqQc1IiqYSPd9,109.99,153.09,209.47,1704,261,498,945,242
+4427,Old Forester 1870 Original Batch,750,90,45,Bourbon,152,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recxhboSbvZmOUqMT,40.91,79.18,45.06,1675,236,369,1070,243
+18768,Maker’s Mark 2022 Wood Finishing Series BRT-02,750,109,54.5,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEU4oIQXQAxUp3v,62.47,109.33,59.99,1667,76,412,1179,244
+17776,Green River Bourbon DSP-KY-10,750,90,45,Bourbon,3445,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHhipL9ayPIpNjG,34.99,47.06,34.99,1666,208,428,1030,245
+19848,Blood Oath Pact No.9,750,98,49,Bourbon,849,1400,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recztpcqlFm7YSptJ,134.97,273.22,248.4,1663,139,485,1039,246
+3181,Yamazaki 12 Year,700,86,43,Japanese Whisky,238,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reciDmkCKN5xlSYd2,134.15,231.33,174.56,1661,234,550,877,247
+3560,I.W. Harper 15 Year,750,,43,Bourbon,2532,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recnRwgBB0SFF97In,75,123.8,94.99,1659,188,542,929,248
+4581,Basil Hayden's Dark Rye,750,80,40,Rye,330,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recz3HORuAvWF8ABA,43.38,65.11,49.99,1650,128,371,1151,249
+16674,Old Fitzgerald 16 Year,750,100,50,Bourbon,234,1999,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recq982HycAKytnQM,155.69,346.14,796.95,1642,1067,448,127,250
+20574,Little Book Chapter 7: In Retrospect,750,118,59,Whiskey,823,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/d9a41faf-6cba-400b-afb5-d11028765036,159.98,227.42,170,1640,82,473,1085,251
+19465,Larceny Barrel Proof A123,750,126,63,Bourbon,587,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec4IGzIxh90vrwec,59.99,96.48,93.64,1629,122,416,1091,252
+19529,Stagg Batch 22B,750,,65,Bourbon,8803,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/259fbcf5-f250-40db-9d69-a112fd5a230e,55,270.44,293.49,1618,65,508,1045,253
+18185,Jack Daniel’s Triple Mash,700,100,50,Whiskey,231,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJvlywrvkVfUIBc,36.48,46.87,59.99,1617,81,403,1133,254
+17181,Booker’s Bourbon 2021-03 Bardstown Batch,750,127,63.5,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/cf2d9ed6-4684-4daf-9c31-85d9dc060182,89.99,166.78,229.99,1615,141,530,944,255
+18517,Little Book Chapter 6: To The Finish,750,117.4,58.7,Bourbon,823,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recGVbSKN0Fw1BhcK,124.97,249.86,191.35,1613,100,473,1040,256
+21024,Stagg 127.8 Proof,750,,63.9,Bourbon,3640,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJKINRoUEYSA64z,60,168.23,259.78,1604,72,407,1125,257
+3793,High West American Prairie Bourbon,750,92,46,Bourbon,350,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recqPoq6VS9akkNud,36.82,57.5,40.8,1597,157,358,1082,258
+17246,Benchmark Top Floor,750,86,43,Bourbon,3330,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoBErVhI2W8BMIn,17.47,24.94,17.89,1571,130,338,1103,259
+18355,Smoke Wagon Uncut the Younger,750,115,57.5,Bourbon,2808,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec6g1DWC2jy7JdeS,46.99,65.5,51.69,1563,90,360,1113,260
+16693,Hibiki Japanese Harmony,750,,43,Blended Whisky,484,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recp4FoniEogHMv1q,87.47,112.22,92,1558,183,406,969,261
+18767,Maker’s Mark 2022 Wood Finishing Series BRT-01,750,109,54.5,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recfinLBZr1Nk4XN7,62.47,99.03,59.99,1556,66,385,1105,262
+2428,Bib & Tucker 6 Year Small Batch Bourbon,750,92,46,Bourbon,799,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYiSvM0tNCcjYBK,51.08,82.62,56.99,1537,134,411,992,263
+14239,Ezra Brooks Cask Strength,750,120,60,Bourbon,324,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQ8gkFX3aYMfsvv,52.46,75.43,53.46,1528,76,382,1070,264
+17151,Rebel Cask Strength Single Barrel,750,120,60,Bourbon,3237,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczp1vS6CAFwTDv0,55.97,73.03,63.49,1525,107,356,1062,265
+19540,Bardstown Origin Series Bourbon,750,96,48,Bourbon,778,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXhC452yVD7eKKZ,46.64,63.05,48.49,1518,165,296,1057,266
+13347,Sagamore Spirit Rye Double Oak,750,96.6,48.3,Rye,3440,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7rUN5kT5i37wAR,59.97,73.96,64.19,1518,208,316,994,266
+16367,Kirkland Signature Bottled-in-Bond Bourbon Barton 1792,1000,100,50,Bourbon,1118,100030,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczmhROZgZXPxGdN,36,52.41,31.39,1514,81,326,1107,268
+17309,Elijah Craig Barrel Proof Batch C921,750,120,60,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/8f25762d-0299-403b-abae-8c7424d3c588,69.97,109.18,79.99,1504,115,386,1003,269
+16893,Bardstown Fusion Series No. 5,750,95,47.5,Bourbon,778,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/9985d1a6-58bb-4833-8c43-bba50144236a,59.99,87.89,65.99,1497,290,458,749,270
+19779,Evan Williams Single Barrel Vintage 2015,750,87,43.5,Bourbon,167,100030,https://d1w35me0y6a2bb.cloudfront.net/newproducts/5c874ce4-c5ee-4d9b-9275-83c5ebfb0546,55,60.7,40.04,1497,103,330,1064,270
+17164,Widow Jane Lucky Thirteen,750,99,49.5,Bourbon,295,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBrTq2tSHeV1Q9t,90,132.77,126.83,1489,185,434,870,272
+50056,George T Stagg - 2024,750,136.1,68.05,Bourbon,352,100131,https://d1w35me0y6a2bb.cloudfront.net/newproducts/6b07e67c-276c-4d84-bc5c-79fca302265d.png,150,486.09,977.78,1475,596,445,434,273
+3000,Uncle Nearest 1884 Small Batch,750,90,45,Whiskey,567,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec6Pnoi1klOp72WE,46.1,56.18,50.39,1465,158,392,915,274
+34570,Green River Full Proof,750,117.3,58.65,Bourbon,3445,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/7c498089-c0bb-4485-b2d1-428a8204fc68,50,67.46,52.82,1459,272,266,921,275
+2329,Buffalo Trace White Dog Mash 1,375,125,62.5,Whiskey,245,40,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recX7tUaj8JaCZ2iy,16.65,20.66,19.44,1448,79,289,1080,276
+3086,Baker's 13 Year Single Barrel,750,,53.5,Bourbon,288,100037,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7Toerkp3HPRauW,100,209.73,292.32,1443,391,386,666,277
+1580,Colonel E.H. Taylor Amaranth,750,100,50,Bourbon,210,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOVIcmn1mPyzwyr,68.03,210.62,1829.59,1442,1054,332,56,278
+297,Old Elk Blended Straight Bourbon,750,88,44,Bourbon,252,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9GDGtcvE3YM7i0,52,55.34,52.82,1441,132,261,1048,279
+3867,Blanton's,50,93,46.5,Bourbon,10,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrt7rMK31Crn0tu,8.81,18.72,44.19,1439,106,372,961,280
+1547,Johnnie Walker Blue Label,750,80,40,Scotch,213,94,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOqfsTRIefjxCtv,222.18,271.87,230.72,1429,136,401,892,281
+18104,Weller 12 Year 1 Liter,1000,,45,Bourbon,156,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEgaAN8fKvS1TFf,54.47,177.5,379.66,1419,170,468,781,282
+17177,Wilderness Trail Small Batch Bourbon,750,,50,Bourbon,521,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ba1af8db-4837-4ed5-9a92-660f2315502a,62.99,84.41,63.33,1409,144,358,907,283
+2256,Buffalo Trace,375,90,45,Bourbon,245,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recW1Aim929Az5DGi,14.27,21.5,21.47,1409,57,319,1033,283
+521,Legent Bourbon Whiskey,750,94,47,Bourbon,4589,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccnaIVCz6O4iExE,44.97,45.53,47.19,1390,127,373,890,285
+20607,Penelope Rio Batch 2,750,98,49,Bourbon,2817,100027,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVfX41YdJTTNQ4k,94.98,125.18,104.79,1385,355,376,654,286
+19499,Booker’s 2023-01 Charlie’s Batch,750,127,63.5,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVsbs8Gvz1n1tie,89.99,110.34,100.59,1384,38,376,970,287
+4476,Michter's Toasted Barrel Strength Rye Whiskey,750,120,60,Rye,405,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recyKb3tvzASh5yCR,62.66,93.42,138.83,1384,442,434,508,287
+12902,Calumet Farm 14 Year,750,96.2,48.1,Bourbon,769,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechAkI4BnYrIXaXa,119.96,138.54,133.32,1379,304,411,664,289
+18939,Booker's Bourbon 2022-03 Kentucky Tea Batch,750,127,63.5,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechH4xHobfrjM7Bd,85.59,122.33,204.87,1379,57,354,968,289
+19851,Maker’s Mark French Oaked No. 46 Cask Strength 23-01,750,110,55,Bourbon,333,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9ECliE4x1U6LbU,65,67.83,76.33,1359,70,364,925,291
+18084,Blue Run 13 Year Old,750,95,47.5,Bourbon,2820,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrzuIhECSPyFWOB,88.31,212.62,319.49,1354,97,354,903,292
+18718,WhistlePig 6 Year Piggyback Bourbon,750,100,50,Bourbon,3549,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQqz5rGq5RPCYXE,49.97,77.54,52.82,1352,82,318,952,293
+281,Jefferson's Ocean Aged At Sea Voyage 17,750,90,45,Bourbon,232,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9zFr5K4Taifh3R,50.24,64.63,56.27,1344,275,34,1035,294
+2311,Redwood Empire Emerald Giant,750,90,45,Rye,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXJvLuFx3uK9XxY,40.64,44.2,41.96,1343,136,325,882,295
+33325,Elijah Craig Barrel Proof - Batch B524,750,130.6,65.3,Bourbon,2,100038,https://d1w35me0y6a2bb.cloudfront.net/newproducts/167c9cda-312e-49d8-af04-14f27d2635e7,69.95,104.97,82.79,1325,115,263,947,296
+3617,Blue Note Bourbon,750,93,46.5,Bourbon,3068,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/40ed3bb6-84a6-48ac-9fd1-b867c33e9d30,49.99,59.33,37.99,1315,179,338,798,297
+12112,Fortaleza Blanco Tequila,750,80,40,Tequila,1708,100035,https://d1w35me0y6a2bb.cloudfront.net/newproducts/f232b227-78f1-4e20-97c8-5179b20b0538,48.41,89.15,53.81,1315,155,344,816,297
+19816,Russell's Reserve Bourbon Single Rickhouse,750,112,56,Bourbon,496,100070,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rectQkwSunBI49Sbc,250,354.85,650,1306,808,280,218,299
+19546,Wild Turkey 12 Year,700,,50.5,Bourbon,191,100110,https://d1w35me0y6a2bb.cloudfront.net/newproducts/350b65e4-30bf-42e9-9f5c-da9d1a22d512,199.99,217.7,158,1295,440,270,585,300
+3281,Benchmark No. 8,750,80,40,Bourbon,3330,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recj7e6nt3Wplw8n8,11.13,12.66,11.65,1279,81,333,865,301
+17299,Frey Ranch Bourbon,750,90,45,Bourbon,3285,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reckyyuW9ZwKZp6QT,49.99,63.6,51.56,1271,201,285,785,302
+44955,Bardstown Origin Series Wheated Bourbon,750,106,53,Bourbon,778,100059,https://d1w35me0y6a2bb.cloudfront.net/newproducts/d532a723-3e19-4218-a571-82b12605573e,49.99,66.26,53.99,1269,255,225,789,303
+21291,Old Fitzgerald 8 Year - Fall 2023,750,100,50,Bourbon,234,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recaH4JjBL0pFlzJd,109.97,208.75,417.64,1263,516,324,423,304
+16486,New Riff Bourbon Single Barrel Barrel Proof,750,110,55,Bourbon,254,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFRYUy0m0ot710f,55.14,67.62,61.66,1260,118,265,877,305
+15987,Alberta Premium Cask Strength,750,132,66,Rye,2824,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recztpToQM6WrqVno,72.45,83.16,78.7,1252,196,457,599,306
+1584,Chicken Cock Straight Bourbon,750,90,45,Bourbon,664,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOY14Imsv9CwlUe,61.47,80.01,64.65,1251,98,327,826,307
+17040,Horse Soldier Barrel Strength,750,115,57.5,Bourbon,3188,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recr7pS61TTse2TNU,85.97,97.49,89.13,1241,152,333,756,308
+17328,Elmer T Lee Commemorative Edition,750,93,46.5,Bourbon,700,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRaVmmuzne9AueB,49.99,558.36,2044.82,1241,646,566,29,308
+28079,Elmer T. Lee Sour Mash,750,,45,Bourbon,700,100070,https://d1w35me0y6a2bb.cloudfront.net/newproducts/1862de16-5772-4b02-8bd1-fad3380a6757,39.99,104.95,299.85,1240,274,295,671,310
+17925,Basil Hayden Subtle Smoke,750,80,40,Bourbon,330,1400,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBUgtD8ThVZ3VVi,52.47,65.03,60.99,1239,129,302,808,311
+13667,Barrell Dovetail,750,125.2,62.6,Whiskey,146,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechWkR1d9mFkeA5P,87.46,89.05,87.66,1234,132,349,753,312
+17924,Heaven Hill 17 Year Heritage Collection 2022 Release,750,118,59,Bourbon,430,1600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEQkTzaIj7kJOpV,274.99,646.78,1615.71,1230,510,501,219,313
+27454,Woodford Reserve Master's Collection Batch Proof 121.2,700,121.2,60.6,Bourbon,2004,100036,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c256fd84-7967-4b22-93bc-fdbb8715743c,129.99,190.52,159.99,1227,126,154,947,314
+19807,Stagg - 23A,750,130,65,Bourbon,3640,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/503cbb08-5d5b-4d5d-b557-8e8f2a7a8a9b,69.99,170.8,271.65,1225,85,377,763,315
+17542,Rebel 10 Year Single Barrel,750,100,50,Bourbon,3237,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwD4N4TjsPXGgWq,74.25,131.05,106.13,1222,159,350,713,316
+16602,Sam Houston Bourbon 15 Year,750,103,51.5,Bourbon,499,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec77IqWZb7FWCXte,129.99,140,138.33,1218,142,472,604,317
+17319,Benchmark Select Casks Small Batch,750,90,45,Bourbon,3330,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccwnjhENMGyfS4n,17.47,23.24,21.24,1213,131,238,844,318
+147,Four Roses Bourbon,750,80,40,Bourbon,148,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec8siZvLqRufvoyB,22.42,28.02,26.8,1213,121,310,782,318
+2316,Old Elk Wheated Bourbon,750,92,46,Bourbon,252,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXWq6VPFQ6ZiJM2,67.2,67.83,69.72,1207,180,297,730,320
+18075,Larceny Barrel Proof Batch A122,750,,62.2,Bourbon,587,1580,https://d1w35me0y6a2bb.cloudfront.net/newproducts/04fcef59-d615-4785-a99d-5925d6da97cc,49.99,54.3,67.24,1200,152,317,731,321
+17921,Old Fitzgerald 17 Year,750,100,50,Bourbon,234,1000,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recSprFoJHvfSk1Aw,109.99,350.74,1072.98,1197,518,397,282,322
+16680,Evan Williams 12 Year Red Label,750,101,50.5,Bourbon,167,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recbnDaUrG1E7T9dv,130,156.12,165.74,1191,167,386,638,323
+542,Green Spot,750,80,40,Irish Whiskey,379,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccus14j5NT2NOJo,66.19,75.21,69.16,1183,154,274,755,325
+16791,Colonel E.H. Taylor Warehouse C,750,100,50,Bourbon,210,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reci2Qk7XnAAISXEn,73.97,475.05,1645.42,1180,528,553,99,326
+21257,Colonel E.H. Taylor Barrel Proof Batch 12,750,131,65.5,Bourbon,210,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reco7ru8UDSRRniTV,78.97,240.29,481.32,1172,151,319,702,327
+3040,Suntory Toki Japanese Whiskey,750,86,43,Japanese Whisky,855,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec6CyrfOjeRCCjh7,35.36,53.67,38.56,1169,145,75,949,328
+48189,Larceny Barrel Proof C924,750,125.1,62.55,Bourbon,587,100087,https://d1w35me0y6a2bb.cloudfront.net/newproducts/2bd3184e-9757-403d-b515-6aacc2415f6b,64.99,92.46,67.33,1169,130,260,779,328
+4838,Jack Daniel's Single Barrel Rye,750,94,47,Rye,231,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recC2vm9OapaIW0Vv,48.86,63.18,61.9,1168,111,275,782,330
+20014,Woodford Reserve Master’s Collection Batch Proof 124.7,750,124,62,Bourbon,2004,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recucTJkKds9vnviV,139.97,161.8,156.07,1154,55,324,775,331
+2697,Johnny Drum Private Stock 15 Year,750,,50.5,Bourbon,7042,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/06ece279-81b4-4fa7-8cda-5a63f24e9674,42.03,48.01,44.83,1151,88,290,773,332
+4414,Redbreast 12 Year Cask Strength,750,115.4,57.7,Irish Whiskey,646,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recx6WTKC748T95Nu,83.17,108.44,94.09,1135,204,332,599,333
+17214,Horse Soldier Small Batch,750,95,47.5,Bourbon,3188,800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwf0EIFxx1adL7a,71.73,76.79,74.56,1132,161,271,700,334
+1142,Buffalo Trace Kosher Rye 7 Year,750,,47,Rye,245,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJIm3XkCpC08XeD,39.99,60.59,71.99,1131,276,339,516,335
+21036,Bardstown Discovery Series No. 11,750,118.1,59.05,Bourbon,778,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recI0dXleLt0w7Q5M,139.97,166.47,142.49,1130,152,251,727,336
+4083,Laphroaig 10 Year,750,86,43,Scotch,284,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rect6jGEt4c3Cke5o,54.82,72.25,64.47,1129,206,308,615,337
+25363,Woodford Reserve Derby 150 2024 Release,1000,,45.2,Bourbon,2004,100035,https://d1w35me0y6a2bb.cloudfront.net/newproducts/2e694775-8458-4715-8167-da45ce83030b,54.99,92.12,67.59,1128,46,122,960,338
+3142,Old Forester Rye,750,100,50,Rye,152,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7jK3LI6PCFMrsx,24.85,26.75,26.41,1125,130,267,728,339
+18228,Larceny Barrel Proof Batch B522,750,,61.9,Bourbon,587,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recUAXjihMfFYC3qo,59.99,70.21,69.99,1120,54,280,786,340
+17223,Blanton's Special Reserve,700,80,40,Bourbon,10,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec5KnQV0YhV0ntqf,49.99,95.02,169.13,1119,352,298,469,341
+1388,Gentleman Jack,750,80,40,Whiskey,231,62,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recMJdTFCEuv9Gasa,31.09,35.46,32.95,1116,63,239,814,342
+634,Murray Hill Club Bourbon,750,103,51.5,Bourbon,406,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdBG3k0uvuMhLpa,107.48,116.01,115.32,1115,97,323,695,343
+40819,Eagle Rare,750,90,45,Bourbon,542,100104,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e79ab340-6d1d-44eb-a18f-110fb8e53a05.jpg,42.99,70.06,69.78,1115,149,219,747,343
+269,Old Fitzgerald 13 Year,750,100,50,Bourbon,234,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec9v6rEPcYnC8OqG,132.48,270.86,624.66,1114,816,199,99,345
+34488,Little Book Chapter 8: Path Not Taken,750,118.2,59.1,Whiskey,823,100044,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b86b8469-5ad1-4710-b5ef-24afa0e9b3b8,160,220.57,210.82,1108,125,216,767,346
+48300,Elijah Craig Barrel Proof C924,750,129,64.5,Bourbon,2,100051,https://d1w35me0y6a2bb.cloudfront.net/newproducts/54cfa519-15a3-4185-bc70-1925b05e8904,75,94.76,76.99,1107,116,186,805,347
+23515,Four Roses Single Barrel,750,,50,Bourbon,148,100079,https://d1w35me0y6a2bb.cloudfront.net/newproducts/711aa5ca-6e6a-4703-a88a-3caaac44c54e,45.99,62.71,48.29,1105,139,198,768,348
+16679,Heaven Hill Old Style Bourbon 6 Year,750,90,45,Bourbon,430,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec11qqeBvScJgPLH,12.99,44.67,39.99,1099,231,350,518,349
+2685,Blackened,750,90,45,Whiskey,822,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec1js8KhOJqNHw6c,49.22,52.69,51.16,1098,84,285,729,350
+13361,Brother's Bond Bourbon,750,80,40,Bourbon,1876,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reclEA9hV7oR4EGxj,39.39,50.59,42.13,1098,84,309,705,350
+5155,Rittenhouse Rye,750,100,50,Rye,858,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHMaI0oFqx9ClLz,24.95,34.88,27.59,1095,92,267,736,352
+5196,High West Bourye,750,92,46,Whiskey,350,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHGaAYbypekmSmi,80.58,86.76,85.66,1095,218,303,574,352
+42342,Heaven Hill Grain to Glass Kentucky Straight Bourbon Whiskey,750,107,53.5,,,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/20614d39-5f60-4b08-91db-a7f4156f68f2.jpg,99.99,107.43,132.73,1105,163,36,906,353
+1807,Woodford Reserve Wheat,750,90.4,45.2,Rye,2004,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRBs5JRVtYEoP1B,37.98,45.24,37.99,1094,81,272,741,354
+18004,Orphan Barrel Fabel and Folly,750,90,45,Whiskey,261,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rectbLBFLNISg2Ab7,149.97,207.06,168.99,1094,92,386,616,354
+1066,Jack Daniel's No. 27 Gold Maple Wood Finish,750,80,40,Whiskey,231,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recIVtEAkSrf4uwtf,95.75,130.03,175.65,1090,78,347,665,356
+3518,Russell's Reserve Single Barrel Rye,750,104,52,Rye,496,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/19833123-67ef-4770-bbfe-e083d0ea0fa7,64.66,78.84,70.82,1090,132,251,707,356
+786,Bulleit 95 Rye,750,90,45,Rye,415,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recflLsqY1EqZApGg,28.97,39.08,49.82,1080,88,239,753,358
+678,WhistlePig 12 Year Old World,750,86,43,Rye,3549,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdkdnZXt1yZ2lBI,124.99,152.67,159.15,1077,131,285,661,359
+16796,Crown Royal XR Extra Rare 18 Year,750,80,40,Canadian Whisky,182,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recnps7zUiup3vpKm,137.47,176.59,147.06,1077,84,381,612,359
+4510,Jefferson's Kentucky Straight Bourbon Whiskey Very Small Batch,750,82,41,Bourbon,232,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recycHV3kmCzwtb4i,34.47,56.61,36.37,1075,58,284,733,361
+46500,Angel’s Envy Triple Oak,750,92,46,Bourbon,96,100048,https://d1w35me0y6a2bb.cloudfront.net/newproducts/da9f56c5-a0ed-44f2-a93d-c3035c4cca45.png,75,90.39,71.98,1074,106,251,717,362
+16485,Lux Row Limited Edition Whiskey 12 Year,750,118,59,Whiskey,10099,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reck8O4QrafA5Z6At,149.99,237.28,499.16,1073,245,405,423,363
+2287,Nikka Whisky From The Barrel,500,102.8,51.4,Whiskey,378,1880,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recXlAIcMueTQwBXN,69.95,75.03,73.26,1072,180,289,603,364
+11035,Tito's Handmade Vodka,750,80,40,Vodka,1541,1860,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recvGYjVyVDAXZcw8,19.64,22.79,22.18,1070,87,304,679,365
+19556,Kentucky Owl Takumi Edition,750,100,50,Bourbon,779,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c075a247-81b2-4346-9d30-be532fd11fa3,142.48,145.32,147.18,1070,61,314,695,365
+1130,WhistlePig 10 Year Straight Rye,750,100,50,Rye,3549,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJBItb1ZPUh8za1,82.45,96.44,95.97,1065,115,295,655,367
+18883,Barrell Vantage,750,114,57,Whiskey,146,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/receq3ls26ObPKg9Q,87.46,95.43,91.49,1060,99,275,686,368
+2363,W.B. Saffell,375,,53.5,Bourbon,191,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYpRTtcwrV1QRQh,49.97,59.47,58.14,1059,82,279,698,369
+18708,High West Midwinter Nights Dram Act 10 Scene 1: The Encore,750,99,49.5,Rye,350,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recyjVTYegyMrAUPW,150,155.83,173.32,1052,107,374,571,370
+17063,Yellowstone Limited Edition 2021,750,101,50.5,Bourbon,272,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdIsNAaLSkNAxGs,99.99,118.49,173.99,1050,211,395,444,371
+4857,Bernheim Original Kentucky Straight Wheat Whiskey,750,90,45,Whiskey,916,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDLfUhjThgtWKvJ,29.9,38.72,40.32,1047,120,275,652,372
+2028,Jack Daniel's Single Barrel Eric Church,750,94,47,Whiskey,231,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recTdRF7jDADpsVhe,54.97,133.4,329.82,1046,286,350,410,373
+993,High West Rendezvous Rye,750,92,46,Rye,350,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rech6fegrJOHwgysC,68.7,74.45,74.85,1046,107,284,655,373
+18110,Evan Williams Single Barrel Vintage 2012,750,86.6,43.3,Bourbon,167,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recT2rQjiK8QqQkAG,28.75,35.19,39.02,1046,174,257,615,373
+19594,Thirteenth Colony Distilleries Southern Bourbon Whiskey,750,95,47.5,Bourbon,25,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7ERp9xyg0Je9Ht,35,47.72,46.19,1045,85,280,680,376
+2753,WhistlePig 10 Year Single Barrel,750,117.8,58.9,Rye,3549,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec2gkvcsh8D2bSEE,88.94,106.16,111.08,1037,124,235,678,377
+2973,Knob Creek Rye,750,100,50,Rye,189,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec56Sw8I3HjFSUTZ,34.38,41.77,37.16,1035,81,240,714,378
+2592,Barrell Bourbon Single Barrel,750,120,60,Bourbon,146,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec0gUVJcli0RceGN,98.56,107.76,110.39,1034,329,313,392,379
+41054,Heaven Hill: Grain to Glass - Wheated Bourbon,750,121,60.5,Bourbon,430,100051,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ed856927-5c68-47e3-949b-991c66719d02,99,118.93,178.73,1031,215,253,563,380
+858,Ezra Brooks Distiller's Collection,750,107,53.5,Bourbon,324,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgTWNQqw3MFUp4S,38.31,41.54,41.82,1030,50,257,723,381
+17158,Blue Note Crossroads,750,100,50,Bourbon,3068,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recAY8FGilMCyrJq0,40.99,55.93,44.16,1030,94,285,651,381
+651,Willett Pot Still Reserve Bourbon,1750,94,47,Bourbon,2986,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdXsizevIFnt7ty,112.49,134.22,113.29,1028,63,312,653,383
+5029,Noble Oak Double Oak Bourbon,750,90,45,Bourbon,507,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recFx4r0Z7x5OkKFL,33.11,40.52,34.39,1027,82,302,643,384
+20575,Old Fitzgerald 10 Year,750,100,50,Bourbon,234,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recqjotaoX9XA1VYY,144.98,221.85,354.82,1027,132,371,524,384
+2833,Basil Hayden's Bourbon,375,80,40,Bourbon,330,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec3csWXYBHHHeEQj,21.92,41.74,24.05,1024,63,292,669,386
+4709,Woodinville Straight Bourbon,750,90,45,Bourbon,556,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBpJbfs0pMoPRme,39.17,58.44,57.15,1021,104,250,667,387
+32083,Blood Oath Pact No. 10,750,,49.3,Bourbon,849,100046,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ee199b8d-8d98-480c-bbba-2c12a54b42ba.jpg,129.99,211.55,196.32,1018,114,197,707,388
+18138,Booker's Bourbon 2022-01 Ronnie’s Batch,750,124,62,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c92f9f66-3d32-457a-ba3b-81686d109699,89.99,116.24,194.99,1009,60,247,702,389
+17611,Widow Jane The Vaults 15 Year,750,99,49.5,Bourbon,295,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recaBZL4GbmqvN0WR,224.98,294.52,258.16,1000,379,260,361,390
+27160,Larceny Barrel Proof A124,750,124.2,62.1,Bourbon,587,100028,https://d1w35me0y6a2bb.cloudfront.net/newproducts/1e665bfd-821f-4a8c-adec-45836b130f78.png,59.99,84.69,79.16,1000,41,89,870,390
+53003,Stagg 24C,750,128.9,64.45,,,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e42ec1ee-8237-467b-aa2f-1eb469250661,65,242.72,816.33,1026,128,343,555,390
+19883,Evan Williams Bottled in Bond Green Label,750,100,50,Bourbon,167,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recvAht7TQ5uBWLfy,15,28.09,19.99,996,89,246,661,392
+17905,Angel's Envy Rye Caribbean Rum Cask,750,100,50,Rye,96,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recdigHdwm2z7V9VU,74.99,101.29,95.99,995,109,255,631,393
+18440,Heaven’s Door Decade Series 10 Year Release 1,750,100,50,Bourbon,299,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYa5IgWxq0ITqnz,99,98.96,98.85,995,55,267,673,393
+2192,Sazerac Rye 18 Year,750,90,45,Rye,705,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recWNiC46q2FcbhUP,104.13,532.86,1907.83,994,556,270,168,395
+726,Macallan 12 Year Double Cask,750,86,43,Scotch,275,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/receG6KjSVyIbaKDW,64.77,92.88,78.49,993,86,267,640,396
+4789,Rabbit Hole Heigold,750,95,47.5,Bourbon,573,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recCoQftqmg6fcbAn,62.47,68.6,66.99,988,97,254,637,397
+18521,Frank August Small Batch Bourbon,750,100,50,Bourbon,3794,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczkcV4Ne1e5FxB3,68.99,95.06,77.16,986,113,247,626,398
+16248,Kirkland Signature Small Batch,1000,92,46,Bourbon,1118,,,27.99,29.38,33.55,985,30,200,755,399
+27294,Booker’s  Springfield Batch 2024-01,750,124.5,62.25,Bourbon,647,100028,https://d1w35me0y6a2bb.cloudfront.net/newproducts/afaabdc1-0e9d-46eb-a270-f6910ef2aac5,90,121.89,116.19,984,49,127,808,400
+20206,Larceny Small Batch,750,,46,Bourbon,587,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recwu4nkbnaXXJm3Q,27.49,38.99,31.99,984,33,277,674,400
+3616,Skrewball Peanut Butter Whiskey,750,70,35,Whiskey,719,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recn6lpQastGrqR07,29.77,38.96,34.11,984,45,216,723,400
+39325,"Booker's 7 Year ""The Beam House Batch"" - 2024",750,,62.3,Bourbon,647,100033,https://d1w35me0y6a2bb.cloudfront.net/newproducts/a73d46be-ab87-494e-be58-2fc937b1b335,95.99,131.16,189.99,980,92,52,836,403
+17378,Elijah Craig Barrel Proof Batch B521,750,118,59,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/a75fcf19-5e0d-4e7e-a6cd-deb55e7cc232,69.97,83.14,122.66,980,82,232,666,403
+4496,Jefferson's Reserve Twin Oak Barrel,750,90.2,45.1,Bourbon,9035,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recy3w2VgaExDFGUG,78.83,97.71,91.66,974,96,248,630,405
+19147,Jack Daniel’s Twice Barreled Special Release 2022 American Single Malt Finished in Oloroso Sherry Casks,750,107.3,53.65,Whiskey,231,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b248dda1-1445-4074-b44e-ef91aea5359b,70,113.08,242.32,973,165,261,547,406
+48295,Booker’s Bourbon 2024-03,750,130.3,65.15,Bourbon,647,100038,https://d1w35me0y6a2bb.cloudfront.net/newproducts/2a9c1062-7248-4b93-9f90-996d16ffd71e,99.99,135.62,114.99,973,86,193,694,406
+39943,Heaven Hill Grain to Glass-Rye,750,123.2,61.6,Whiskey,430,100051,https://d1w35me0y6a2bb.cloudfront.net/newproducts/00683fe4-1f08-4c89-a107-cb43b6975f57,99,106.43,128.73,969,102,228,639,408
+16050,Garrison Brothers Balmorhea Bourbon,750,115,57.5,Bourbon,3880,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recax91EynIawShyE,168.16,186.15,185.83,969,125,296,548,408
+567,Woodford Reserve Rye,750,90.4,45.2,Rye,2004,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recc2r2Dqurh0iYRC,36.34,51.17,43.92,967,59,213,695,410
+49176,Penelope Estate Collection Private Select 9 Year,750,101.2,50.6,Bourbon,2817,100069,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c2812378-52a4-44cd-9fdd-070945dc6e78,79.99,122.17,179.99,967,173,182,612,410
+14303,Elijah Craig Barrel Proof Batch C917,750,131,65.5,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/69b776f1-bd0e-4d15-876d-adaaa2690bfe,62.48,98.07,89.99,964,281,337,346,412
+13891,Blue Spot 7 Year Batch 3,700,,58.9,Whisky,8935,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recWV9aG5DJ7VtvSz,109.99,152.28,304.49,962,178,355,429,413
+17399,Elijah Craig Barrel Proof Batch A121,750,124,62,Bourbon,2,1200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e7ee50a6-38d2-42cd-b591-d0e8964db281,69.97,86.86,117.86,958,110,246,602,414
+1286,Shenk's Homestead Sour Mash Whiskey 2022 Release,750,91,45.5,Whiskey,3854,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recLS57MgGf0eWSY8,99.97,121.62,186.56,957,123,331,503,415
+3208,The Balvenie Double Wood 12 year,750,,43,Single Malt Scotch Whisky,337,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reci6cgpNXbTcLBJo,65.96,85.27,72.28,957,119,237,601,415
+17862,Evan Williams Single Barrel Vintage 2013,750,86.6,43.3,Bourbon,167,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec3eEtjdFwBq3guR,28.75,33.13,46.25,956,95,204,657,417
+17064,Jack Daniel's Bottled in Bond,1000,100,50,Whiskey,231,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoOpUxKNxFEe7ZK,37.99,56.2,98.11,954,107,295,552,418
+1786,Knob Creek Single Barrel Rye,750,115,57.5,Rye,189,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRTWmKzFluCxDNv,54.77,79.14,58.82,954,39,221,694,418
+11663,Clase Azul Reposado,750,80,40,Tequila,1344,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgZpj1TALSI4vgB,122.7,194.98,181.7,952,110,299,543,420
+20692,Maker's Mark Cellar Aged 2023 Release,750,115,57.5,Bourbon,333,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrLzDcYaP3HBfk5,159.98,225.15,458.16,952,263,332,357,420
+17101,"Booker's 6 Year ""Tagalong Batch"" - 2021",750,,63.95,Bourbon,647,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recgxNrE9aHRRi0VX,90,126.1,205.83,950,93,256,601,422
+16879,Still Austin Bourbon The Musician,750,98,49,Bourbon,3145,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQ78rEuPszm5tpM,45.99,62.7,57.24,947,139,227,581,423
+43333,Shenks Homstead Sour Mash Whiskey - 2024 Release,750,91.2,45.6,Whiskey,3854,100034,https://d1w35me0y6a2bb.cloudfront.net/newproducts/18668caf-e919-486f-9693-eef2baca878e,169,224.96,209.99,947,118,194,635,423
+12408,Don Julio 1942,750,,40,Tequila,1592,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recn9MqzJeAc8PG3n,142.46,190.43,175.96,944,96,292,556,425
+13979,Old Fitzgerald 14 Year - Fall 2020,750,100,50,Bourbon,234,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recKVl0L1EnHAKuYJ,132.48,252.23,611.49,935,585,212,138,426
+3097,Elijah Craig 23 Year Single Barrel,750,90,45,Bourbon,2,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec7sGGv9hduscQEr,199.98,476.63,1304.99,930,665,220,45,427
+4622,Hibiki Harmony,750,86,43,Whiskey,484,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recArbJWNnwm2E4uE,79.99,101.34,94.42,930,127,257,546,427
+16502,George Remus Straight Bourbon Whiskey,750,94,47,Bourbon,586,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec4y6yTmYTZPXpqc,39.96,44.94,40.1,930,95,257,578,427
+413,Evan Williams Black Label,750,86,43,Bourbon,167,10000,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reca7gXLFNlKJD3EF,13.98,18.38,16.66,929,99,478,352,430
+3956,Belle Meade Bourbon,750,90.4,45.2,Bourbon,154,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recst2vhvBRQXdSkI,48.72,51.57,60.13,927,99,218,610,431
+20813,2XO American Oak Oak Series Kentucky Straight Bourbon,750,92,46,Bourbon,4542,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYnaJJ92jHpL1qq,49.96,64.42,50.66,923,47,257,619,432
+1693,Very Old Barton 6 Year 100 Proof,750,100,50,Bourbon,250,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recPkORpnUkmGZlYf,13.95,16.98,18.58,917,101,204,612,433
+1753,Chattanooga Whiskey Experimental Single Barrel 75,750,102,51,Bourbon,3436,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQ1koHWahf0wa9k,48.99,49.34,50.39,917,179,267,471,433
+18439,Four Roses Single Barrel Barrel Proof OESV,750,110,55,Bourbon,148,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRB0AjcB0GJ3eh3,80,123.39,201.83,910,94,178,638,435
+17547,Larceny Barrel Proof Batch C921,750,,61.3,Bourbon,587,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reccPhitbiAo1TE6s,49.99,64.12,106.49,894,69,246,579,436
+46347,Jack Daniel's Coy Hill Barrelhouse 8 2024 Special Release Single Barrel Whiskey,750,135,67.5,Whiskey,231,100062,https://d1w35me0y6a2bb.cloudfront.net/newproducts/af93f8d7-8ca7-45fb-8a24-4d6da26c74e6,79.99,252.21,549.99,893,381,222,290,437
+19658,Old Elk Cigar Cut,750,110.6,55.3,Bourbon,252,0,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recACKN7yVb7vFvpV,124.98,137.21,142.83,891,92,288,511,438
+1730,Old Fitzgerald 15 Year,750,100,50,Bourbon,234,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recQCbcGk4S3pcKyW,149.97,290.14,583,888,651,158,79,439
+2419,Crown Royal Regal Apple,750,70,35,Canadian Whisky,182,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYevmjn81d21Xky,26.7,32.37,28.66,888,55,191,642,439
+6462,Hendrick's Gin,750,88,44,Gins,1074,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recvWBDL5jDagd2Dw,37.97,40.56,39.13,884,116,310,458,441
+15345,King Of Kentucky,750,125.8,62.9,Whiskey,6734,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recH6aXH23EDu0ZJ8,249.99,386.68,407.08,878,426,357,95,442
+2670,Michter's Limited Release Toasted Barrel Strength,750,110,55,Bourbon,405,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec1aS3cjkDak4uxk,79.15,146.87,339.85,877,360,234,283,443
+4859,Tincup American Whiskey 10 Year,750,84,42,Whiskey,731,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDLzYXANiqVu3Qn,52.46,66.55,53.49,873,110,205,558,444
+145,Barrell Bourbon Infinite Barrel Project,750,130,65,Bourbon,146,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recPjL9sPWyG6o4Gj,64.41,67.63,77.28,872,258,315,299,445
+4864,Glenfiddich Single Malt Scotch Whiskey 12 Years,750,80,40,Scotch,335,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recDNtnKOXQDLGMsE,49.59,59.28,50.28,868,151,221,496,446
+19569,Redwood Empire Lost Monarch Cask Strength,750,117,58.5,Whiskey,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEeiH35hj6bI3S6,70,86.22,79.58,867,116,174,577,447
+17420,Elijah Craig 1991 20 Year Single Barrel #42,750,,45,Bourbon,2,1960,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reczbTa2BrUYAFpaY,159.99,831.74,2846.99,864,574,276,14,448
+363,Jim Beam Double Oak,750,86,43,Bourbon,247,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recarSpG8F9a85b1V,22.9,28.12,25.74,862,71,225,566,449
+1297,Russell's Reserve 6 Years Rye,750,90,45,Rye,496,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/7b545087-85c5-4f30-adaf-beb11a8ca71c,41.26,48.3,48.16,854,90,186,578,450
+17126,Old Bardstown Bottled in Bond,750,100,50,Bourbon,820,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recSYLLBJj0ts7ztJ,19.99,22.16,23.67,854,67,196,591,450
+17354,George Dickel x Leopold Brothers Collaboration,750,100,50,Whiskey,486,1800,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechfJAjNNqlFu2Dr,109.98,126.61,120.79,851,73,293,485,452
+2128,Balvenie 14 Year Caribbean Cask,750,86,43,Scotch,337,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recVs5OBenbcdU4Jk,83.95,100.48,99.62,848,111,218,519,453
+45695,Little Book The Infinite I 2024,750,120,60,Bourbon,823,100056,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b7ac003b-d8ed-4090-b7d4-dae22f95a9f4.jpg,199.99,283.51,324.99,845,145,209,491,454
+18872,Old Forester Birthday Bourbon 2022,750,96,48,Bourbon,152,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recy3hPEfiKZZPq8u,149.99,403.53,1046.42,844,273,289,282,455
+2433,Glenlivet 12 Year,750,80,40,Scotch,315,1996,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recZLiJeFE4uLtLCF,48.53,52.81,53.69,842,150,241,451,456
+18356,Stagg Jr. Batch 15,750,,65.55,Bourbon,8803,100036,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recLPnhzJI5P636uW,53.3,249.2,263.45,840,157,184,499,457
+16995,Bardstown Discovery Series No. 5,750,104.7,52.35,Bourbon,778,1980,https://d1w35me0y6a2bb.cloudfront.net/newproducts/36c65350-07d5-4c93-bda8-9545825380b2,134.97,167.84,192.61,838,291,299,248,458
+16458,Castle & Key Restoration Rye,750,103,51.5,Rye,2983,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec2r3rNpuxHYSSPL,42.99,44.06,47.26,831,49,195,587,459
+34209,Larceny Barrel Proof - Batch B524,750,125.4,62.7,Bourbon,587,100032,https://d1w35me0y6a2bb.cloudfront.net/newproducts/6ebb98ba-6eec-4229-b98b-a70a6b698b7f,59.95,89.4,62.46,830,73,137,620,460
+20519,Jack Daniel’s Twice Barreled Tennessee Rye 2023 Special Release,750,100,50,Rye,231,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/bcb0429a-8cd6-4f9c-afd9-cc15dec9465a,69.97,133.85,325.49,826,52,313,461,461
+17389,Redwood Empire Rocket Top BIB Rye,750,100,50,Rye,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recjUifELHJkDsJET,69.99,84.93,87.15,825,133,202,490,462
+4631,Evan Williams Single Barrel Vintage 1988,750,86,43,Bourbon,167,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/b53d7702-7838-4757-9a30-fdf92a87db9a,28.68,42.32,49.99,822,145,255,422,463
+5151,Bulleit 12 Year Rye,750,92,46,Rye,415,100026,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recGkPgykHViSXuhk,51.63,70.95,55.97,821,150,177,494,464
+19555,Redwood Empire Emerald Giant Cask Strength,750,117,58.5,Rye,445,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recg0K9iDlTpAAzgo,70,81.07,78.59,821,114,160,547,464
+17264,New Riff 6 Year Malted Rye,750,100,50,Rye,254,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec187RCbPuqbV1iB,59.99,82.22,80.56,818,85,179,554,466
+3562,Van Winkle Family Reserve 13 Year Rye,750,95.6,47.8,Rye,370,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recnSQufA5aqrKb9a,134.89,518.88,1757.32,812,375,230,207,467
+44603,Maker's Mark Cellar Aged 2024 Release,750,,59.65,Bourbon,333,100046,https://d1w35me0y6a2bb.cloudfront.net/newproducts/934315e0-1c80-49cd-899a-880d9c1cc75a,174.99,330.08,551.99,812,279,186,347,467
+19812,George T. Stagg 2022 Release,750,,69.35,Bourbon,352,1400,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechivCzlM6c3U9CI,99,461.1,1251.59,811,279,234,298,469
+3884,Johnnie Walker Black Label,750,80,40,Scotch,213,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recrEgrOvAXoylsnD,38.82,47.86,44.27,811,58,165,588,469
+22361,Elijah Craig Barrel Proof A124,750,119,59.5,Bourbon,2,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/2f77874d-0a65-46ef-9e27-16effa0c8062.jpg,74.99,94.63,92.81,808,26,62,720,471
+17261,Wild Turkey Master's Keep One,750,101,50.5,Bourbon,191,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/241646e8-e80a-4c1b-8ee9-7572b59b360e,177.49,254.64,374.05,806,206,288,312,472
+20518,RD One Bourbon Brazilian Amburana Wood Finish,750,110,55,Bourbon,4107,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rechVDLVxkhXLYN8q,69.99,83.35,71.59,804,72,187,545,473
+21216,Basil Hayden's 10 Year Bourbon,750,80,40,Bourbon,330,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHb6YkxPhNqldWi,52.48,109.66,77.49,791,38,184,569,474
+28334,Redwood Empire Screaming Titan,750,96,48,Bourbon,445,100049,https://d1w35me0y6a2bb.cloudfront.net/newproducts/e84165a5-57b6-4114-bc68-9807136b2ebf,89.99,117.24,93.28,790,114,111,565,475
+17356,Woodford Reserve Five-Malt Stouted Mash - 2021,750,,45.2,Bourbon,2004,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recL1AKhaM23WoArl,129.99,144.78,189.16,789,73,277,439,476
+20824,Shenk’s Homestead Sour Mash Whiskey 2023 Release,750,91,45.5,Bourbon,3854,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recaf3xYvCmLg14w0,109.98,137.18,199.98,788,73,202,513,477
+5208,Ancient Age,750,80,40,Bourbon,93,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recHXAHOW0bRfWnKt,11.89,14.3,15.24,783,75,190,518,478
+1533,J.T.S. Brown BIB Bourbon,750,100,50,Bourbon,4310,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOPfV3TwpvcaIoC,14.31,17.8,16.82,783,111,195,477,478
+14242,Wild Turkey 101 Rye,750,101,50.5,Rye,191,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recRjvBUtZkjus7ym,26.97,27.71,27.99,782,55,193,534,480
+18042,Stagg Jr. - Batch #16,750,131,65.5,Bourbon,3640,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recNvS77tVCmAMQet,53.3,139.68,367.16,781,67,237,477,481
+4723,Jameson Black Barrel,750,80,40,Irish Whiskey,214,80,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recBEbE8S5L73VnQQ,39.16,49.99,40.89,780,72,176,532,482
+18002,Evan Williams Single Barrel Vintage 2014,750,86.6,43.3,Bourbon,167,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recEsdkoLVRGNUQj6,28.75,55.34,135.11,778,44,157,577,483
+149,Woodford Reserve Double Oaked,375,90.4,45.2,Bourbon,2004,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rec07GpCq9Xz1RtV6,29.39,49.68,31.03,777,54,226,497,484
+2371,Old Grand Dad,750,80,40,Bourbon,793,1880,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recYxgdiLt5SJvsR1,17.79,21.21,26.66,774,118,243,413,485
+3213,Breckenridge Bourbon Whiskey,750,86,43,Bourbon,502,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reci93TXMZ2aYs9Zi,44.08,49.93,45.49,774,79,191,504,485
+46278,Old Forester Birthday Bourbon 2024,750,107,53.5,Bourbon,152,100048,https://d1w35me0y6a2bb.cloudfront.net/newproducts/48d649f8-c68c-4247-838e-4bbf721b90b8,199.99,479.79,1049.5,774,364,190,220,485
+3672,Angel's Envy Cask Strength,750,119.3,59.65,Bourbon,96,100,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recoJWQY6EuxvFeev,218.73,226.76,250.83,770,217,244,309,488
+32717,Jim Beam Black 7 Year,750,90,45,Bourbon,247,100026,https://d1w35me0y6a2bb.cloudfront.net/newproducts/3a40485b-c05d-45ae-bea3-201d0333f373.jpg,25,35.76,26.49,769,75,134,560,489
+42831,Bomberger’s Declaration 2024 Release,750,108,54,,,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/ccd1aef7-956c-4f13-b0a7-325977d25b0a,,212.8,268.74,775,131,153,491,489
+19466,Peerless Double Oak Rye,750,110,55,Rye,163,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/3f3d4428-20c5-447f-96e0-0fb62386dc11,114.99,144.83,132.49,763,84,213,466,490
+17156,George Remus Single Barrel,750,121.9,60.95,Bourbon,586,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recd9MQaKRf5hDVb1,54.99,73.06,66.49,762,68,180,514,491
+17900,Smoke Wagon Straight Bourbon Halloween Edition,750,92,46,Bourbon,2808,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/reckb0Df7OhZ6PVM7,39.99,42.55,40.59,760,24,178,558,492
+19223,Old Fitzgerald 19 Year - Fall 2022,750,100,50,Bourbon,234,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recJny88Fii5xDaul,239.97,438.87,1045.98,760,122,302,336,492
+1355,Nikka Coffey Grain Japanese Whisky,750,90,45,Japanese Whisky,378,1940,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recMQWF2aUaYQZLLU,70.92,76.44,75.66,760,145,185,430,492
+17500,Yellowstone Select Landmark Edition,750,93,46.5,Bourbon,272,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recfNWn0uQgI4zwBD,39.97,45.48,43.59,755,27,180,548,495
+19811,Penelope Double Cask Finish - Rio,750,98,49,Bourbon,2817,200,https://d1w35me0y6a2bb.cloudfront.net/newproducts/fd06fdeb-1e91-4743-aba7-3067a5f9dbb8,90,139.16,286.64,752,150,266,336,496
+20648,Penelope Barrel Strength Private Select - 4 Grain - 9 Yr,750,109,54.5,Bourbon,2817,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recUTI6Q9bFoah49i,79.98,90.02,80.48,752,43,155,554,496
+13581,Four Roses 2020 Limited Edition Small Batch OESV,750,111.4,55.7,Bourbon,148,1700,https://d1w35me0y6a2bb.cloudfront.net/newproducts/rect5zeWtd0NbGmjW,174.97,276.44,518.25,752,438,195,119,496
+12152,Fortaleza Reposado Tequila,750,80,40,,,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/c781b7ba-bb38-48bd-a1a7-6497398cecab,57.95,110.2,62.58,761,107,177,477,497
+17644,Knob Creek 9 Year,1750,100,50,Bourbon,189,600,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recOfEehbx8Au66cU,44.99,60.37,67.79,748,88,204,456,499
+20789,Lux Row Four Grain Double Single Barrel,750,115,57.5,Bourbon,10099,,https://d1w35me0y6a2bb.cloudfront.net/newproducts/recd5A5a3dh9jNLPj,79.97,106.78,79.99,745,33,199,513,500
