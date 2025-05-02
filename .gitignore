@@ -60,3 +60,15 @@ frontend/.env
 # Others (optional)
 *.lock
 yolov8n.pt
+
+__pycache__/
+*.pyc
+*.jpg
+*.png
+*.jpeg
+*.pt
+data/
+venv/
+*.zip
+.DS_Store
+
