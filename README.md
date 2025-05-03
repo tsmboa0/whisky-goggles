@@ -141,6 +141,15 @@ whisky-goggles/
 
 ### Start by cloning this repo
 
+```bash
+cd whisky-goggles
+create and activate a virtual environment e.g venv
+run pip install -r requirements.txt
+run uvicorn app.main:app --reload and visit http:localhost:8000/ to use the app
+
+Note: depending on your machine, you may need to pay attention to your terminal to see what variable to add to path.
+```
+
 ### One-Command Deployment with Docker
 
 ```bash

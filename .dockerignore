@@ -1,0 +1,21 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.venv/
+venv/
+
+# Frontend junk
+frontend/node_modules/
+frontend/.env
+frontend/.next/
+
+# Misc
+.DS_Store
+.cache/
+*.zip
+*.tar
+*.bak
