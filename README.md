@@ -159,7 +159,7 @@ source venv/bin/activate
 ```
 install all packages
 ```bash
-pip install -r requirements.txx
+pip install -r requirements.txt
 ```
 Install frontend packages and build
 ```bash
