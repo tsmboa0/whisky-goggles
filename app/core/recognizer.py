@@ -33,35 +33,40 @@ class Recognizer:
         a list of identified whisky bottles with their details.
         """
         # Step 1: Preprocessing – remove background and split into bottle crops
-        logger.info("strting recognizer step1: Preprocess")
-        bottle_images = preprocessing.preprocess_image(image, session=self.rembg_session)
+        print("strting recognizer step1: Preprocess")
+        # bottle_images = preprocessing.preprocess_image(image, session=self.rembg_session)
 
         results = []
 
-        for bottle_img in bottle_images:
-            # Step 2: Embedding – obtain CLIP feature vector for the bottle image
-            embedding = self.embedder.embed_image(bottle_img)
-            # Step 3: Matching – query the FAISS index for similar embeddings
-            matches = self.matcher.match_image(embedding, top_k=3)
-            logger.info("The matches from CLIP Engine are: ",matches)
-            if not matches:
-                logger.info("No match found!")
-                continue  # no match found, skip
+        # Step 2: Embedding – obtain CLIP feature vector for the bottle image
+        if image.mode != "RGB":
+            image = image.convert("RGB")
 
-            # Step 4: OCR – read text from the bottle label (if any)
-            logger.info("running OCR on uploaded image")
-            label_text = self.ocr_engine.extract_text(bottle_img)
+        print("Embedding the image")
+        embedding = self.embedder.embed_image(image)
 
-            # create an on object of the results
-            result_data = {
-                "clip_result":matches,
-                "ocr_result": label_text
-            }
+        # Step 3: Matching – query the FAISS index for similar embeddings
+        print("Matching the image")
+        matches = self.matcher.match_image(embedding, top_k=3)
 
-            results.append(result_data)
+        if not matches:
+            print("No match found!")
+            matches=[]
+
+        # Step 4: OCR – read text from the bottle label (if any)
+        print("running OCR on uploaded image")
+        label_text = self.ocr_engine.extract_text(image)
+
+        # create an on object of the results
+        result_data = {
+            "clip_result":matches,
+            "ocr_result": label_text
+        }
+
+        results.append(result_data)
         
         #Send the results to the mediator for verification
-        logger.info("Passing CLIP and OCR results to the AI mediator.")
+        print("Passing CLIP and OCR results to the AI mediator.")
         mediator_result = graph.invoke({
             "messages": [HumanMessage("Based on these results, which bottle is it?")],
             "ocr_result": str(results[0]["ocr_result"]),
@@ -69,5 +74,7 @@ class Recognizer:
         })
 
         result = mediator_result['final_result']
+
+        print(f"The result is: {result}")
 
         return result

@@ -1,92 +1,73 @@
-import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from PIL import Image
+import sys
 import numpy as np
 import faiss
-import pandas as pd
+import pickle
+from PIL import Image
+import torch
+
+# Ensure relative import for app modules
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from app.core.embedding import EmbeddingEngine
-from app.utils import metadata_loader
-import torch
-torch.set_num_threads(1)  # Limit PyTorch to 1 thread
 
+torch.set_num_threads(1)
 
 def build_index():
-    print("Starting...")
-    # Load metadata to get list of all items
-    image_index_path = os.path.join(os.path.dirname(__file__), '../data/faiss_store/image_index.faiss')
-    text_index_path = os.path.join(os.path.dirname(__file__), '../data/faiss_store/text_index.faiss')
-    image_dir=os.path.join(os.path.dirname(__file__), '../data/bottle_images')
-    metadata_path = os.path.join(os.path.dirname(__file__), '../data/metadata.csv')
+    print("Starting index build...")
+    
+    image_dir = os.path.join(os.path.dirname(__file__), '../data/new_bottle_images')
+    index_path = os.path.join(os.path.dirname(__file__), '../data/faiss_store/index.faiss')
+    name_map_path = os.path.join(os.path.dirname(__file__), '../data/faiss_store/bottle_names.pkl')
 
-    metadata = metadata_loader.load_metadata(metadata_path)
-    print("Loaded metadata")
+    print(f"loading embedding engine")
     embedder = EmbeddingEngine()
-    print("Embedder Initd")
-
-    d = None
+    print("Embedding engine loaded")
     image_embeddings = []
-    bottle_name = []
-    # Optional: initialize background removal session to preprocess all images
-    rembg_session = None
-    try:
-        from rembg import new_session, remove
-        rembg_session = new_session()
-    except ImportError:
-        remove = None
-    print("Entering Loop")
-    for item in metadata:
-        # Get the image path from the metadata
-        print("iterating over image: ",item['id'],".jpg")
-        image_path = os.path.join(image_dir, f"{item['id']}.jpg") # images are named with id.jpg
+    image_names = []
 
-        #Extract the bottle names from the metadata
-        bottle_name.append(item['name'])
-
-        if not os.path.exists(image_path):
-            print(f"Warning: Image for ID {item['id']} not found at {image_path}. Skipping.")
+    print("Loading images from:", image_dir)
+    count = 0
+    
+    print(f"The directory length is: {len(os.listdir(image_dir))}")
+    for file in sorted(os.listdir(image_dir)):
+        if not file.lower().endswith(('.jpg', '.jpeg', '.png')):
             continue
         
-        # Open the image
+        image_path = os.path.join(image_dir, file)
         try:
-            img = Image.open(image_path)
+            image = Image.open(image_path).convert("RGB")
         except Exception as e:
-            print(f"Error opening image for ID {item['id']}: {e}. Skipping.")
+            print(f"Error opening {file}: {e}")
             continue
         
-        img = img.convert("RGB")  # Ensure image is in RGB mode
-        # Get embedding for the image
-        vec = embedder.embed_image(img)
-        if d is None:
-            d = vec.shape[0]
+        print(f"Embedding {file}")
+        vec = embedder.embed_image(image)
         image_embeddings.append(vec)
+        image_names.append(os.path.splitext(file)[0])  # strip file extension
+        count += 1
+        print(f"The count is: {count}")
+        
 
     if not image_embeddings:
-        print("No embeddings were generated. Index not built.")
+        print("No images processed. Aborting.")
         return
-    print("Loop done...packaging the embeddings")
 
+    print("Building FAISS index...")
     image_embeddings = np.array(image_embeddings, dtype='float32')
+    dim = image_embeddings.shape[1]
 
-    #Generate the text embeddings for the bottle list
-    text_embeddings = embedder.embed_text(bottle_name)
-    
-    # Build an Image Faiss index (Inner Product for cosine similarity on normalized vectors)
-    image_index = faiss.IndexFlatIP(d)  # Using Inner Product for cosine similarity
-    image_index.add(image_embeddings)         # Add vectors to the index
+    index = faiss.IndexFlatIP(dim)  # cosine similarity requires normalized vectors
+    index.add(image_embeddings)
 
-    #Build a text Faiss index
-    text_dimention = text_embeddings.shape[1]
-    text_index = faiss.IndexFlatL2(text_dimention)
-    text_index.add(text_embeddings)
-    
-    # Save the Image and Text Faiss index to their specified path
-    faiss.write_index(image_index, image_index_path)
-    faiss.write_index(text_index, text_index_path)
+    print(f"Saving FAISS index to {index_path}")
+    faiss.write_index(index, index_path)
 
-    print(f"Saved Image Faiss index to {image_index_path} (entries: {image_index.ntotal}).")
-    print(f"Saved Text Faiss index to {text_index_path} (entries: {text_index.ntotal}).")
+    print(f"Saving name map to {name_map_path}")
+    with open(name_map_path, 'wb') as f:
+        pickle.dump(image_names, f)
+
+    print("Indexing complete. Total images indexed:", len(image_names))
 
 if __name__ == "__main__":
     build_index()

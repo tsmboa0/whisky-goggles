@@ -12,7 +12,6 @@ from app.utils.prompt import mediator_system_prompt
 from app.utils.logger import logger
 from dotenv import load_dotenv
 from app.core.matcher import WhiskyMatcher
-from app.config import MODEL_NAME, MODEL_PROVIDER
 
 
 load_dotenv()
@@ -21,7 +20,7 @@ load_dotenv()
 matcher = WhiskyMatcher()
 
 # currently using deepseek-r1-distill-llama-70b or llama-3.3-70b-versatile
-LLM = init_chat_model(model= MODEL_NAME, model_provider=MODEL_PROVIDER)
+LLM = init_chat_model(model= os.getenv("MODEL_NAME"), model_provider=os.getenv("MODEL_PROVIDER"))
 
 # Add a custom reducer
 def replaceString(left:str, right:str)->str:
