@@ -89,7 +89,7 @@ WHISKY-GOGGLES offers two powerful endpoints:
 
 
 ### Response Format
-see localhost:8000/api
+see localhost:8000/docs
 
 
 ## ⚙️ Implementation Details
@@ -140,27 +140,45 @@ whisky-goggles/
 ## 💻 Getting Started
 
 ### Start by cloning this repo
+```bash
+git clone https://github.com/tsmboa0/whisky-goggles.git
+```
+Cd into the directory
 
 ```bash
 cd whisky-goggles
+```
+
 create and activate a virtual environment e.g venv
-run pip install -r requirements.txt
-run uvicorn app.main:app --reload and visit http:localhost:8000/ to use the app
+```bash
+python3 -m venv venv
+```
+Activate your venv
+```bash
+source venv/bin/activate
+```
+install all packages
+```bash
+pip install -r requirements.txt
+```
+Install frontend packages and build
+```bash
+cd frontend/
+npm i
+npm run build
+```
+Create a .env file and copy the .env.example file into it. Remember to get your GROQ/OPENAI API Key
+
+start your server
+```bash
+uvicorn app.main:app --reload
+```
+
+Visit http://127.0.0.1:8000/ to interact with the application
 
 Note: depending on your machine, you may need to pay attention to your terminal to see what variable to add to path.
 ```
 
-### One-Command Deployment with Docker
-
-```bash
-docker-compose up -d
-```
-
-Visit `http://localhost:8000` for the web interface or `http://localhost:8000/docs` for interactive API documentation.
-
-### Environment Configuration
-
-see the .env.example file
 
 ### You can aslo check the scripts/ folder to see how to train new dataset from a new metadata.csv file
 
