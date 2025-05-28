@@ -1,8 +1,7 @@
 from app.core import preprocessing
 from app.core.embedding import EmbeddingEngine
-from app.core.ocr import OCREngine
 from app.core.matcher import WhiskyMatcher
-from app.utils import metadata_loader
+from app.core.vision import WhiskyVisionAnalyzer
 from app.core.mediator import graph
 from langchain_core.messages import HumanMessage
 from app.utils.logger import logger
@@ -16,10 +15,10 @@ class Recognizer:
         # Initialize core components: image embedder, text reader, and matcher
         self.embedder = EmbeddingEngine()
         logger.info("Clip embedder loaded")
-        self.ocr_engine = OCREngine()
-        logger.info("OCR engine loaded")
         self.matcher = WhiskyMatcher()
         logger.info("Matching Engine loaded")
+        self.vision_analyzer = WhiskyVisionAnalyzer()
+        logger.info("Vision analyzer loaded")
         # Prepare background removal session (to speed up multiple calls)
         try:
             from rembg import new_session
@@ -34,7 +33,7 @@ class Recognizer:
         """
         # Step 1: Preprocessing – remove background and split into bottle crops
         print("strting recognizer step1: Preprocess")
-        # bottle_images = preprocessing.preprocess_image(image, session=self.rembg_session)
+        processed_image = preprocessing.preprocess_image(image, session=self.rembg_session)
 
         results = []
 
@@ -53,14 +52,14 @@ class Recognizer:
             print("No match found!")
             matches=[]
 
-        # Step 4: OCR – read text from the bottle label (if any)
-        print("running OCR on uploaded image")
-        label_text = self.ocr_engine.extract_text(image)
+        # Step 4: Vision – analyze the image with the Vision API
+        print("Analyzing the image with the Vision API")
+        vision_result = self.vision_analyzer.analyze(image)
 
         # create an on object of the results
         result_data = {
             "clip_result":matches,
-            "ocr_result": label_text
+            "vision_result": vision_result
         }
 
         results.append(result_data)
@@ -69,7 +68,7 @@ class Recognizer:
         print("Passing CLIP and OCR results to the AI mediator.")
         mediator_result = graph.invoke({
             "messages": [HumanMessage("Based on these results, which bottle is it?")],
-            "ocr_result": str(results[0]["ocr_result"]),
+            "vision_result": str(results[0]["vision_result"]),
             "clip_result": str(results[0]["clip_result"])
         })
 

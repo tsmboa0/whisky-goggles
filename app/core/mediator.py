@@ -32,22 +32,24 @@ def replaceList(left:list, right:list)->list:
 class State(TypedDict):
     messages: Annotated[list, add_messages]
     clip_result: Annotated[str, replaceString]
-    ocr_result:Annotated[str, replaceString]
+    vision_result:Annotated[str, replaceString]
     final_result: Annotated[list, replaceList]
 
 def Mediator(state: State):
     messages= state['messages']
-    ocr_result = state["ocr_result"]
+    vision_result = state["vision_result"]
     clip_result = state["clip_result"]
 
     prompt = ChatPromptTemplate.from_template(mediator_system_prompt)
 
     system_message = prompt.invoke({
         "clip_result": clip_result,
-        "ocr_result": ocr_result
+        "vision_result": vision_result
     }).to_messages()
 
     result = LLM.invoke(system_message+messages)
+
+    print(f"The Mediator result is: {result.content}")
 
     return {"messages": [result]}
 

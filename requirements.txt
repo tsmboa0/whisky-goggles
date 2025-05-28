@@ -20,3 +20,4 @@ langchain_groq
 typing_extensions
 sentence_transformers
 rank-bm25
+google-cloud-vision

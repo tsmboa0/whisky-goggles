@@ -169,6 +169,32 @@ npm run build
 ```
 Create a .env file and copy the .env.example file into it. Remember to get your GROQ/OPENAI API Key
 
+### Get your Google Credentials (to be able to use Google Vision API)
+
+Step 1: Enable Cloud Vision API
+
+1: Go to: https://console.cloud.google.com
+2: Create or select a project.
+3: Navigate to APIs & Services > Library
+4: Search for “Cloud Vision API” and click Enable
+
+STEP 2: Create a Service Account
+
+1: Go to: IAM & Admin > Service Accounts
+2: Click “Create Service Account”
+3: Give it a name (e.g., vision-reader) → Continue
+4: Assign the role: Project > Editor or Cloud Vision API User
+5: Click Done
+6: Go to the created service account → Keys tab → Add Key > JSON
+
+📦 This will download a JSON file — your credentials file.
+
+Ensure you activate billing for your google account. (you have free API calls, so you won't be charged)
+
+Open your .env file and add the path to the downloaded credentials.json file
+
+GOOGLE_APPLICATION_CREDENTIALS="path/to/your/credentials.json"
+
 start your server
 ```bash
 uvicorn app.main:app --reload
