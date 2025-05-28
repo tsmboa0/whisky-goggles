@@ -202,7 +202,9 @@ Ensure you activate billing for your google account. (you have free API calls, s
 
 Open your .env file and add the path to the downloaded credentials.json file
 
+```bash
 GOOGLE_APPLICATION_CREDENTIALS = "path/to/your/credentials.json"
+```
 
 #### Start your server
 ```bash
