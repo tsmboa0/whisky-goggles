@@ -23,7 +23,7 @@ Here are key strict pointers you should always prioritize:
 4. When there is a year, you should use it to determine the bottle.
 5. When there is a web entity, you should use it to determine the bottle.
 
-No hallucination or guessing is allowed.
+No hallucination or guessing is allowed. Some bottles might be very similar e.g "Old Overholt Straight Rye Whiskey 10 Years" and "Old Overholt 10 Year Cask Strength Rye" (and other similar scenarios). You should be able to differentiate them.
 
 Here is the results from the Google Vision API: {vision_result}.
 Here is the metadata gotten from the CLIP model: {clip_result}
