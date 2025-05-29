@@ -4,6 +4,7 @@ import Header from "@/components/header";
 import UploadArea from "@/components/upload-area";
 import ImagePreview from "@/components/image-preview";
 import ScanningProgress from "@/components/scanning-progress";
+import Camera from "@/components/camera";
 import { useToast } from "@/hooks/use-toast";
 import { scanWhiskyBottle } from "@/lib/api";
 
@@ -13,6 +14,7 @@ export default function Home() {
   const [previewUrl, setPreviewUrl] = useState<string | null>(null);
   const [isScanning, setIsScanning] = useState(false);
   const [scanProgress, setScanProgress] = useState(0);
+  const [showCamera, setShowCamera] = useState(false);
   const { toast } = useToast();
   const fileInputRef = useRef<HTMLInputElement>(null);
 
@@ -41,21 +43,17 @@ export default function Home() {
     }
   };
 
-  const handleCameraCapture = async () => {
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({ video: true });
-      // In a real implementation, this would open a camera component
-      // For now, we'll just trigger the file input as a fallback
-      handleFileUploadClick();
-      // And make sure to clean up the stream
-      stream.getTracks().forEach(track => track.stop());
-    } catch (error) {
-      toast({
-        title: "Camera access failed",
-        description: "Could not access your camera. Please try uploading an image instead.",
-        variant: "destructive",
-      });
-    }
+  const handleCameraCapture = () => {
+    setShowCamera(true);
+  };
+
+  const handleCameraClose = () => {
+    setShowCamera(false);
+  };
+
+  const handleCameraCaptureComplete = (file: File) => {
+    setShowCamera(false);
+    handleImageSelected(file);
   };
 
   // Track the scanning progress
@@ -205,6 +203,13 @@ export default function Home() {
               </div>
             )}
           </div>
+          
+          {showCamera && (
+            <Camera
+              onCapture={handleCameraCaptureComplete}
+              onClose={handleCameraClose}
+            />
+          )}
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
             <div className="luxury-card p-5 text-center dark:bg-gray-800 dark:border-gray-700">

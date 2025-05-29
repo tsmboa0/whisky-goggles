@@ -1,4 +1,4 @@
-from app.core import preprocessing
+from app.core.preprocessing import enhance_image
 from app.core.embedding import EmbeddingEngine
 from app.core.matcher import WhiskyMatcher
 from app.core.vision import WhiskyVisionAnalyzer
@@ -19,6 +19,7 @@ class Recognizer:
         logger.info("Matching Engine loaded")
         self.vision_analyzer = WhiskyVisionAnalyzer()
         logger.info("Vision analyzer loaded")
+        self.preprocess = enhance_image
         # Prepare background removal session (to speed up multiple calls)
         try:
             from rembg import new_session
@@ -33,7 +34,7 @@ class Recognizer:
         """
         # Step 1: Preprocessing – remove background and split into bottle crops
         print("strting recognizer step1: Preprocess")
-        processed_image = preprocessing.preprocess_image(image, session=self.rembg_session)
+        processed_image = self.preprocess(image)
 
         results = []
 

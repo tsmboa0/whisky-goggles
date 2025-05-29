@@ -1,7 +1,6 @@
 import os
-from typing import Annotated
+from typing import Annotated, Dict
 from typing_extensions import TypedDict
-from langchain_core.messages import AIMessage
 from langchain.chat_models import init_chat_model
 from langchain_core.prompts import ChatPromptTemplate
 
@@ -9,10 +8,15 @@ from langgraph.graph.message import add_messages
 from langgraph.graph import START, END, StateGraph
 
 from app.utils.prompt import mediator_system_prompt
-from app.utils.logger import logger
 from dotenv import load_dotenv
 from app.core.matcher import WhiskyMatcher
+import ast
+import re
 
+response_format = {
+    "name": "Whisky Bottle Name with the year and age (as it is called in a liquor store). You can ignore the year if it is not present in the OCR text.",
+    "score": "Confidence score of the whisky bottle"
+}
 
 load_dotenv()
 
@@ -44,38 +48,47 @@ def Mediator(state: State):
 
     system_message = prompt.invoke({
         "clip_result": clip_result,
-        "vision_result": vision_result
+        "vision_result": vision_result,
+        "response_format": response_format
     }).to_messages()
 
     result = LLM.invoke(system_message+messages)
 
-    print(f"The Mediator result is: {result.content}")
+    cleaned_result = extract_dict_from_response(result.content)
 
-    return {"messages": [result]}
+    matched_bottles = TextSimilaritySearch(cleaned_result)
+
+    return {"final_result": matched_bottles}
 
 
-def TextSimilaritySearch(state:State):
-    messages = state['messages']
-
-    # Retrive the content of the Mediators answer
-    lastMessage : AIMessage = messages[len(messages)-1]
-    full_text = lastMessage.content.split("name:")
-    bottle_name = full_text[1].split("score:")[0]
-
-    logger.info("The mediator result is: ",full_text[1])
-
-    confidence_score = full_text[1].split("score:")[1]
+def TextSimilaritySearch(data:Dict):
+    bottle_name = data['name']
+    confidence_score = data['score']
 
     matched_bottles = matcher.match_text(bottle_name)
     matched_bottles[0]['confidence_score'] = confidence_score
 
-    return {"final_result": matched_bottles}
+    return matched_bottles
+
+def extract_dict_from_response(response: str):
+    # Find the first {...} block using regex
+    match = re.search(r"\{.*?\}", response, re.DOTALL)
+    if not match:
+        raise ValueError("No dictionary found in the response.")
+
+    dict_str = match.group(0)
+    try:
+        parsed = ast.literal_eval(dict_str)
+        return parsed  # parsed is a dict
+    except Exception as e:
+        raise ValueError(f"Failed to parse dict: {e}")
+    
+
+
 
 builder = StateGraph(State)
 builder.add_node("mediator", Mediator)
-builder.add_node("search", TextSimilaritySearch)
 builder.add_edge(START, "mediator")
-builder.add_edge("mediator", "search")
-builder.add_edge("search", END)
+builder.add_edge("mediator", END)
 
 graph = builder.compile()

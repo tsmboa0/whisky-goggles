@@ -23,7 +23,9 @@ class WhiskyVisionAnalyzer:
             vision.Feature(type_=vision.Feature.Type.LABEL_DETECTION),
             vision.Feature(type_=vision.Feature.Type.OBJECT_LOCALIZATION),
             vision.Feature(type_=vision.Feature.Type.IMAGE_PROPERTIES),
-            vision.Feature(type_=vision.Feature.Type.TEXT_DETECTION)
+            vision.Feature(type_=vision.Feature.Type.TEXT_DETECTION),
+            vision.Feature(type_=vision.Feature.Type.LOGO_DETECTION),
+            vision.Feature(type_=vision.Feature.Type.WEB_DETECTION)
         ]
 
         response = self.client.annotate_image({"image": vision_image, "features": features})
@@ -59,10 +61,28 @@ class WhiskyVisionAnalyzer:
                 "fraction": round(c.pixel_fraction, 3)
             })
 
+        # Logo Extraction
+        logos = [
+            {
+                "description": logo.description,
+                "score": round(logo.score, 3)
+            }
+            for logo in response.logo_annotations
+        ]
+
+        # Web detection
+        web = response.web_detection
+        web_entities = [
+            {"description": entity.description, "score": round(entity.score, 3)}
+            for entity in web.web_entities if entity.description
+        ]
+
         return {
             "type": "whisky_bottle_analysis",
             "bottle_count": len(bottles),
             "detected_bottles": bottles,
             "ocr_text": ocr_text,
-            "dominant_colors": colors
+            "detected_logo": logos,
+            "dominant_colors": colors,
+            "web_entities": web_entities
         }
