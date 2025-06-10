@@ -1,7 +1,7 @@
 import os
 from typing import Annotated, Dict
 from typing_extensions import TypedDict
-from langchain.chat_models import init_chat_model
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 
 from langgraph.graph.message import add_messages
@@ -23,8 +23,7 @@ load_dotenv()
 # load the matcher
 matcher = WhiskyMatcher()
 
-# currently using deepseek-r1-distill-llama-70b or llama-3.3-70b-versatile
-LLM = init_chat_model(model= os.getenv("MODEL_NAME"), model_provider=os.getenv("MODEL_PROVIDER"))
+LLM = ChatOpenAI(model="gpt-4o", temperature=0)
 
 # Add a custom reducer
 def replaceString(left:str, right:str)->str:
@@ -53,6 +52,8 @@ def Mediator(state: State):
     }).to_messages()
 
     result = LLM.invoke(system_message+messages)
+
+    print(f"The mediator result is: {result.content}")
 
     cleaned_result = extract_dict_from_response(result.content)
 

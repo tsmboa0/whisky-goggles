@@ -57,6 +57,8 @@ class Recognizer:
         print("Analyzing the image with the Vision API")
         vision_result = self.vision_analyzer.analyze(image)
 
+        print(f"The Vision API results are: {vision_result}")
+
         # create an on object of the results
         result_data = {
             "clip_result":matches,
